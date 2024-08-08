@@ -12,8 +12,7 @@ const yamiCueto = {
 };
 
 # Proyectos Destacados
-[Todo List app](https://yamicueto.github.io/todo-list-app/)
-1. Todo List app
+1. [Todo List App](https://yamicueto.github.io/todo-list-app/)
 const tecnologias = {
   name: "Angular",
   language: "TypeScript",
