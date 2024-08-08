@@ -13,7 +13,6 @@ const yamiCueto = {
 
 # Proyectos Destacados
 1. Todo List app
-```typescript
 const tecnologias = {
   name: "Angular",
   language: "TypeScript",
