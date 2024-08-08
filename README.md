@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**YamiCueto/YamiCueto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# YamiCueto - Full Stack Developer
 
-Here are some ideas to get you started:
+```typescript
+const yamiCueto = {
+    name: "Yami Cueto",
+    role: "Full Stack Developer",
+    experience: "6+ years",
+    technologies: ["Angular", "Java", "JavaScript", "TypeScript", "MySQL", "SQL Server", "PostgreSQL", "AWS"],
+    cloudServices: ["Aurora", "S3", "ECS", "EC2", "Elastic Beanstalk"]
+};
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Proyectos Destacados
+1. Todo List app
+```typescript
+const tecnologias = {
+  name: "Angular",
+  language: "TypeScript",
+  "bundle": "Angular Material"
+} ;
+
