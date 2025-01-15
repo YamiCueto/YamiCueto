@@ -4,7 +4,7 @@
 
 ```typescript
 const yamiCueto = {
-    name: "Yami Cueto",
+    name: "Yamid Cueto M",
     role: "Full Stack Developer",
     experience: "6+ years",
     technologies: ["Angular", "Java", "JavaScript", "TypeScript", "MySQL", "SQL Server", "PostgreSQL", "AWS"],
