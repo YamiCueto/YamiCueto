@@ -77,7 +77,7 @@ const yamiCueto: Developer = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 #### 📝 [Todo List App](https://yamicueto.github.io/todo-list-app/)
 ![Todo App](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
@@ -93,7 +93,24 @@ const yamiCueto: Developer = {
 [📂 Ver Código](https://github.com/YamiCueto/todo-list-app) | [🌐 Demo en Vivo](https://yamicueto.github.io/todo-list-app/)
 
 </td>
-<td width="50%">
+<td width="33%">
+
+#### 🤖 [E-commerce with IA](https://yamicueto.github.io/e-commerce-with-ia/)
+![AI Commerce](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+
+**Descripción:** Plataforma de e-commerce integrada con inteligencia artificial
+
+**Tecnologías:**
+- 🛍️ Sistema de e-commerce completo
+- 🤖 Integración con IA
+- ⚡ TypeScript
+- 🎯 Experiencia de usuario mejorada
+
+[📂 Ver Código](https://github.com/YamiCueto/e-commerce-with-ia) | [🌐 Demo en Vivo](https://yamicueto.github.io/e-commerce-with-ia/)
+
+</td>
+<td width="33%">
 
 #### 🍽️ Recetario App
 ![Recetario](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -150,22 +167,6 @@ const yamiCueto: Developer = {
 </td>
 </tr>
 </table>
-
-### 🛒 Proyecto con IA
-
-#### 🤖 E-commerce with IA
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-
-**Descripción:** Plataforma de e-commerce integrada con inteligencia artificial
-
-**Características:**
-- 🛍️ Sistema de e-commerce completo
-- 🤖 Integración con IA
-- ⚡ TypeScript
-- 🎯 Experiencia de usuario mejorada
-
-[📂 Ver Código](https://github.com/YamiCueto/e-commerce-with-ia)
 
 ---
 
