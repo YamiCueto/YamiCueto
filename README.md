@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamid-cueto-mazo/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YamiDev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yamiddev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yamicueto.github.io/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YamiCueto&color=36BCF7&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/YamiCueto?style=for-the-badge&color=36BCF7)
@@ -222,6 +223,7 @@ const yamiCueto: Developer = {
 🌱 **Aprendiendo:** Inteligencia Artificial y Machine Learning
 💡 **Interesado en:** Colaboraciones en proyectos innovadores
 📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/yamid-cueto-mazo/)
+🌐 **Portfolio Web:** [yamicueto.github.io](https://yamicueto.github.io/)
 
 ---
 
