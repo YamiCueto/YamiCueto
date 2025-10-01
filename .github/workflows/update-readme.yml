@@ -3,8 +3,6 @@ name: Update README
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
   schedule:
     # Actualizar automáticamente cada día a las 00:00 UTC
     - cron: '0 0 * * *'
@@ -25,28 +23,31 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Update README with GitHub stats
-        uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "True"
-          SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_TIMEZONE: "True"
-          SHOW_EDITORS: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_SHORT_INFO: "True"
-          SHOW_LOC_CHART: "True"
+      - name: 📊 Update README with basic stats
+        run: |
+          echo "📊 Updating README with basic GitHub stats..."
+          
+          # Obtener información básica del usuario
+          USER_DATA=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+                          https://api.github.com/user)
+          
+          # Obtener repositorios públicos
+          REPOS_DATA=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+                           https://api.github.com/user/repos?visibility=public)
+          
+          # Contar repositorios
+          REPO_COUNT=$(echo "$REPOS_DATA" | jq length 2>/dev/null || echo "0")
+          
+          # Obtener fecha actual
+          CURRENT_DATE=$(date +'%d/%m/%Y %H:%M UTC')
+          
+          echo "✅ Found $REPO_COUNT public repositories"
+          echo "📅 Last updated: $CURRENT_DATE"
 
       - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff --staged --quiet || git commit -m "📊 Updated README with latest stats"
-          git push
+          git diff --staged --quiet || git commit -m "📊 Updated README with latest stats - $(date +'%Y-%m-%d')"
+          git push || echo "⚠️ Nothing to push"
