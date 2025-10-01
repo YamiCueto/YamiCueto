@@ -112,8 +112,9 @@ const yamiCueto: Developer = {
 </td>
 <td width="33%">
 
-#### 🍽️ Recetario App
-![Recetario](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+#### 🍽️ [Recetario App](https://yamicueto.github.io/recetario-app/)
+![Recetario](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 **Descripción:** Aplicación para gestión de recetas culinarias
 
@@ -123,7 +124,7 @@ const yamiCueto: Developer = {
 - 📱 TypeScript
 - 🔧 Angular CLI
 
-[📂 Ver Código](https://github.com/YamiCueto/recetario-app)
+[📂 Ver Código](https://github.com/YamiCueto/recetario-app) | [🌐 Demo en Vivo](https://yamicueto.github.io/recetario-app/)
 
 </td>
 </tr>
