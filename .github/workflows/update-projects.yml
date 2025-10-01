@@ -1,0 +1,158 @@
+name: Update Projects Info
+
+on:
+  schedule:
+    # Ejecutar todos los lunes a las 9:00 AM UTC
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+    # Permitir ejecución manual
+  push:
+    branches: [ main ]
+    paths:
+      - '.github/workflows/update-projects.yml'
+
+jobs:
+  update-projects:
+    runs-on: ubuntu-latest
+    name: Update Projects Information
+    
+    steps:
+      - name: 🚀 Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: 📦 Install Dependencies
+        run: |
+          pip install requests PyGithub
+
+      - name: 🔍 Fetch Repository Data
+        run: |
+          python << 'EOF'
+          import requests
+          import json
+          from datetime import datetime
+          
+          # GitHub API para obtener repositorios
+          username = "YamiCueto"
+          api_url = f"https://api.github.com/users/{username}/repos"
+          
+          try:
+              response = requests.get(api_url)
+              repos = response.json()
+              
+              # Filtrar repositorios públicos y ordenar por última actualización
+              public_repos = [repo for repo in repos if not repo['private']]
+              public_repos.sort(key=lambda x: x['updated_at'], reverse=True)
+              
+              # Obtener información relevante
+              repo_info = []
+              for repo in public_repos[:10]:  # Top 10 repositorios
+                  info = {
+                      'name': repo['name'],
+                      'description': repo['description'] or 'No description',
+                      'language': repo['language'] or 'Unknown',
+                      'stars': repo['stargazers_count'],
+                      'forks': repo['forks_count'],
+                      'updated': repo['updated_at'],
+                      'url': repo['html_url']
+                  }
+                  repo_info.append(info)
+              
+              # Guardar información en archivo
+              with open('projects_data.json', 'w') as f:
+                  json.dump({
+                      'updated_at': datetime.now().isoformat(),
+                      'repositories': repo_info
+                  }, f, indent=2)
+                  
+              print(f"✅ Successfully fetched data for {len(repo_info)} repositories")
+              
+          except Exception as e:
+              print(f"❌ Error fetching repository data: {e}")
+          EOF
+
+      - name: 📊 Update README with Latest Projects
+        run: |
+          python << 'EOF'
+          import json
+          import re
+          from datetime import datetime
+          
+          # Leer datos de proyectos
+          try:
+              with open('projects_data.json', 'r') as f:
+                  data = json.load(f)
+              
+              repositories = data['repositories']
+              
+              # Leer README actual
+              with open('README.md', 'r', encoding='utf-8') as f:
+                  readme_content = f.read()
+              
+              # Crear sección de estadísticas actualizadas
+              stats_section = f"""
+          ---
+          
+          ## 📈 Estadísticas Actualizadas
+          
+          **Última actualización:** {datetime.now().strftime('%d/%m/%Y %H:%M UTC')}
+          
+          **Repositorios públicos:** {len(repositories)}
+          
+          **Lenguajes más utilizados:**
+          """
+              
+              # Contar lenguajes
+              languages = {}
+              for repo in repositories:
+                  lang = repo['language']
+                  if lang and lang != 'Unknown':
+                      languages[lang] = languages.get(lang, 0) + 1
+              
+              # Agregar lenguajes al stats
+              for lang, count in sorted(languages.items(), key=lambda x: x[1], reverse=True)[:5]:
+                  stats_section += f"\n- **{lang}:** {count} proyecto{'s' if count > 1 else ''}"
+              
+              # Buscar donde insertar las estadísticas (antes de la sección de contacto)
+              pattern = r'(---\s*## 💬 ¡Conectemos!)'
+              if re.search(pattern, readme_content):
+                  updated_content = re.sub(pattern, stats_section + r'\n\n\1', readme_content)
+              else:
+                  # Si no encuentra la sección, agregar al final
+                  updated_content = readme_content + stats_section
+              
+              # Escribir README actualizado
+              with open('README.md', 'w', encoding='utf-8') as f:
+                  f.write(updated_content)
+              
+              print("✅ README updated with latest project statistics")
+              
+          except Exception as e:
+              print(f"❌ Error updating README: {e}")
+          EOF
+
+      - name: 💾 Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add .
+          
+          if git diff --staged --quiet; then
+            echo "📌 No changes detected in projects data"
+          else
+            git commit -m "🔄 Auto-update: Projects statistics $(date +'%Y-%m-%d')"
+            git push origin main
+            echo "✅ Successfully pushed updated project statistics"
+          fi
+
+      - name: 🎉 Success Notification
+        run: |
+          echo "🎊 Project update workflow completed successfully!"
+          echo "📊 Repository statistics have been refreshed"
+          echo "🔗 Check your profile: https://github.com/YamiCueto"

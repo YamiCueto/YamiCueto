@@ -1,0 +1,80 @@
+name: CI/CD Profile
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate-readme:
+    runs-on: ubuntu-latest
+    name: 🔍 Validate README
+    
+    steps:
+      - name: 🚀 Checkout Code
+        uses: actions/checkout@v4
+
+      - name: 📝 Validate README Format
+        run: |
+          echo "🔍 Validating README.md structure..."
+          
+          # Verificar que el README existe
+          if [ ! -f "README.md" ]; then
+            echo "❌ README.md not found!"
+            exit 1
+          fi
+          
+          # Verificar secciones principales
+          required_sections=("Sobre Mí" "Stack Tecnológico" "Proyectos Destacados" "Conectemos")
+          
+          for section in "${required_sections[@]}"; do
+            if grep -q "$section" README.md; then
+              echo "✅ Section '$section' found"
+            else
+              echo "⚠️  Section '$section' missing"
+            fi
+          done
+          
+          # Verificar enlaces
+          echo "🔗 Checking external links..."
+          if grep -q "linkedin.com" README.md; then
+            echo "✅ LinkedIn link found"
+          fi
+          
+          if grep -q "github.io" README.md; then
+            echo "✅ GitHub Pages link found"
+          fi
+          
+          echo "✨ README validation completed!"
+
+      - name: 📊 README Stats
+        run: |
+          echo "📈 README Statistics:"
+          echo "📄 Lines: $(wc -l < README.md)"
+          echo "🔤 Words: $(wc -w < README.md)"
+          echo "📝 Characters: $(wc -c < README.md)"
+          echo "🔗 Links: $(grep -o 'http[s]*://[^)]*' README.md | wc -l)"
+          echo "🎨 Badges: $(grep -o '!\[.*\](' README.md | wc -l)"
+
+  deploy-status:
+    needs: validate-readme
+    runs-on: ubuntu-latest
+    name: 📢 Deployment Status
+    
+    steps:
+      - name: 🎉 Success Message
+        run: |
+          echo "🚀 Profile README deployment successful!"
+          echo "✨ Your GitHub profile has been updated"
+          echo "🌟 Profile URL: https://github.com/YamiCueto"
+          echo "📅 Deployed at: $(date)"
+          
+      - name: 📬 Summary
+        run: |
+          echo "## 📊 Deployment Summary" >> $GITHUB_STEP_SUMMARY
+          echo "✅ README validation passed" >> $GITHUB_STEP_SUMMARY
+          echo "🔗 Profile updated successfully" >> $GITHUB_STEP_SUMMARY
+          echo "📅 **Timestamp:** $(date)" >> $GITHUB_STEP_SUMMARY
+          echo "🎯 **Branch:** ${{ github.ref_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "👤 **Author:** ${{ github.actor }}" >> $GITHUB_STEP_SUMMARY

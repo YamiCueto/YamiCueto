@@ -1,0 +1,51 @@
+name: Deploy Profile README
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+      - '.github/workflows/**'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 🚀 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 📊 Generate GitHub Stats
+        uses: teoxoy/profile-readme-stats@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🔧 Setup Git Config
+        run: |
+          git config --local user.email "yamicueto@users.noreply.github.com"
+          git config --local user.name "Yamid Cueto"
+
+      - name: 📈 Update Repository Stats
+        run: |
+          echo "🔄 Updating repository statistics..."
+          # Aquí puedes agregar scripts personalizados para actualizar estadísticas
+          
+      - name: 💾 Commit Changes
+        run: |
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 Auto-update: Profile README stats $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
+
+      - name: ✅ Deployment Success
+        run: |
+          echo "✨ Profile README successfully updated!"
+          echo "📅 Updated at: $(date)"
+          echo "🔗 Profile URL: https://github.com/YamiCueto"
