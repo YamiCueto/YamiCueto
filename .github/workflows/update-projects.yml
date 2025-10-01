@@ -11,6 +11,10 @@ on:
     paths:
       - '.github/workflows/update-projects.yml'
 
+permissions:
+  contents: write
+  actions: read
+
 jobs:
   update-projects:
     runs-on: ubuntu-latest
@@ -139,15 +143,15 @@ jobs:
 
       - name: 💾 Commit and Push Changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action Bot"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add .
           
           if git diff --staged --quiet; then
             echo "📌 No changes detected in projects data"
           else
             git commit -m "🔄 Auto-update: Projects statistics $(date +'%Y-%m-%d')"
-            git push origin main
+            git push
             echo "✅ Successfully pushed updated project statistics"
           fi
 
