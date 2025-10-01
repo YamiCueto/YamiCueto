@@ -77,10 +77,11 @@ const yamiCueto: Developer = {
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
 #### 📝 [Todo List App](https://yamicueto.github.io/todo-list-app/)
 ![Todo App](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 **Descripción:** Aplicación de gestión de tareas moderna y responsiva
 
@@ -93,7 +94,27 @@ const yamiCueto: Developer = {
 [📂 Ver Código](https://github.com/YamiCueto/todo-list-app) | [🌐 Demo en Vivo](https://yamicueto.github.io/todo-list-app/)
 
 </td>
-<td width="33%">
+<td width="50%">
+
+#### 🎓 [Academy.IA](https://yamicueto.github.io/academy.ia/)
+![Academy](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![Education](https://img.shields.io/badge/Education-4CAF50?style=for-the-badge&logo=google-scholar&logoColor=white)
+
+**Descripción:** Plataforma educativa potenciada con inteligencia artificial
+
+**Tecnologías:**
+- 🎓 Sistema de aprendizaje con IA
+- 🤖 Asistente educativo inteligente
+- ⚡ TypeScript
+- 📚 Experiencia de aprendizaje personalizada
+
+[📂 Ver Código](https://github.com/YamiCueto/academy.ia) | [🌐 Demo en Vivo](https://yamicueto.github.io/academy.ia/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 #### 🤖 [E-commerce with IA](https://yamicueto.github.io/e-commerce-with-ia/)
 ![AI Commerce](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
@@ -110,7 +131,7 @@ const yamiCueto: Developer = {
 [📂 Ver Código](https://github.com/YamiCueto/e-commerce-with-ia) | [🌐 Demo en Vivo](https://yamicueto.github.io/e-commerce-with-ia/)
 
 </td>
-<td width="33%">
+<td width="50%">
 
 #### 🍽️ [Recetario App](https://yamicueto.github.io/recetario-app/)
 ![Recetario](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
