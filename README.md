@@ -150,6 +150,29 @@ const yamiCueto: Developer = {
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+#### ☁️ [Cloud Cheatsheet](https://yamicueto.github.io/cloud-cheatsheet/)
+![Cloud](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+**Descripción:** Guía de referencia rápida para comandos y servicios cloud
+
+**Tecnologías:**
+- ☁️ AWS, Azure, GCP
+- 📚 Documentación interactiva
+- 🔧 Comandos y mejores prácticas
+- 🎯 Referencia rápida
+
+[📂 Ver Código](https://github.com/YamiCueto/cloud-cheatsheet) | [🌐 Demo en Vivo](https://yamicueto.github.io/cloud-cheatsheet/)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
 </table>
 
 ### 🔧 Proyectos Backend
