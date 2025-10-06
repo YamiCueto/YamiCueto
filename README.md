@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Yamid Cueto
 
-<div align="center">
+<!-- Centered content -->
 
 ![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;10%2B+Years+Experience;Angular+%7C+Java+Expert;Cloud+Solutions+Architect)
 
@@ -12,7 +12,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=YamiCueto&color=36BCF7&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/YamiCueto?style=for-the-badge&color=36BCF7)
 
-</div>
+<!-- End centered content -->
 
 ---
 
@@ -44,9 +44,10 @@ const yamiCueto: Developer = {
 
 ## 🛠️ Stack Tecnológico
 
-<div align="center">
+<!-- Centered content (Markdown does not support true centering, but this section is intended to be centered) -->
 
 ### Frontend
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,16 +55,19 @@ const yamiCueto: Developer = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Bases de Datos
+
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -76,6 +80,7 @@ const yamiCueto: Developer = {
 
 ### 🚀 Aplicaciones en Vivo (GitHub Pages)
 
+<!-- markdownlint-disable MD033 -->
 <table>
 <tr>
 <td width="50%">
@@ -171,10 +176,11 @@ const yamiCueto: Developer = {
 </td>
 <td width="50%">
 
-</td>
 </tr>
 </table>
+<!-- markdownlint-enable MD033 -->
 
+### 🔧 Proyectos Backend
 ### 🔧 Proyectos Backend
 
 <table>
