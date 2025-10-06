@@ -1,14 +1,17 @@
 {
-  "updated_at": "2025-10-06T09:12:42.168350",
+  "updated_at": "2025-10-06T14:51:21Z",
+  "total_repositories": 10,
   "repositories": [
     {
       "name": "YamiCueto",
-      "description": "No description",
-      "language": "Unknown",
+      "description": "Perfil de GitHub - Repositorio especial",
+      "language": "Markdown",
       "stars": 0,
       "forks": 0,
-      "updated": "2025-10-05T23:11:12Z",
-      "url": "https://github.com/YamiCueto/YamiCueto"
+      "updated": "2025-10-06T14:51:21Z",
+      "url": "https://github.com/YamiCueto/YamiCueto",
+      "has_pages": true,
+      "topics": []
     },
     {
       "name": "cloud-cheatsheet",
@@ -16,80 +19,127 @@
       "language": "TypeScript",
       "stars": 0,
       "forks": 0,
-      "updated": "2025-10-05T23:07:48Z",
-      "url": "https://github.com/YamiCueto/cloud-cheatsheet"
+      "updated": "2025-10-06T14:46:50Z",
+      "url": "https://github.com/YamiCueto/cloud-cheatsheet",
+      "has_pages": true,
+      "github_pages": "https://yamicueto.github.io/cloud-cheatsheet/",
+      "topics": []
     },
     {
       "name": "recetario-app",
-      "description": "No description",
+      "description": "Aplicacion para gestion de recetas culinarias con Angular 18",
       "language": "CSS",
       "stars": 0,
       "forks": 0,
       "updated": "2025-10-05T22:26:10Z",
-      "url": "https://github.com/YamiCueto/recetario-app"
+      "url": "https://github.com/YamiCueto/recetario-app",
+      "has_pages": true,
+      "github_pages": "https://yamicueto.github.io/recetario-app/",
+      "topics": []
     },
     {
       "name": "yamicueto.github.io",
-      "description": "\ud83d\udcbb **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**     ",
+      "description": "Ingeniero de Software - Full Stack Developer - Entusiasta de la IA - Portfolio Personal",
       "language": "HTML",
       "stars": 0,
       "forks": 0,
       "updated": "2025-10-01T22:26:35Z",
-      "url": "https://github.com/YamiCueto/yamicueto.github.io"
+      "url": "https://github.com/YamiCueto/yamicueto.github.io",
+      "has_pages": true,
+      "github_pages": "https://yamicueto.github.io/",
+      "topics": []
     },
     {
       "name": "todo-list-app",
-      "description": "No description",
+      "description": "Aplicacion de gestion de tareas moderna y responsiva con Angular",
       "language": "TypeScript",
       "stars": 0,
       "forks": 0,
       "updated": "2025-10-01T19:02:41Z",
-      "url": "https://github.com/YamiCueto/todo-list-app"
+      "url": "https://github.com/YamiCueto/todo-list-app",
+      "has_pages": true,
+      "github_pages": "https://yamicueto.github.io/todo-list-app/",
+      "topics": []
     },
     {
       "name": "academy.ia",
-      "description": "repo para una spa usando simplemente js, html y css",
+      "description": "Plataforma educativa potenciada con inteligencia artificial - SPA usando JavaScript HTML y CSS",
       "language": "HTML",
       "stars": 0,
       "forks": 0,
       "updated": "2025-10-01T14:53:08Z",
-      "url": "https://github.com/YamiCueto/academy.ia"
+      "url": "https://github.com/YamiCueto/academy.ia",
+      "has_pages": true,
+      "github_pages": "https://yamicueto.github.io/academy.ia/",
+      "topics": []
     },
     {
       "name": "comprame.co",
-      "description": "documentaci\u00f3n e-commerce comprame.co",
-      "language": "Unknown",
+      "description": "Documentacion e-commerce comprame.co",
+      "language": "Markdown",
       "stars": 0,
       "forks": 0,
       "updated": "2025-09-27T15:03:28Z",
-      "url": "https://github.com/YamiCueto/comprame.co"
+      "url": "https://github.com/YamiCueto/comprame.co",
+      "has_pages": false,
+      "topics": []
     },
     {
       "name": "e-commerce-with-ia",
-      "description": "No description",
+      "description": "Plataforma de e-commerce integrada con inteligencia artificial",
       "language": "TypeScript",
       "stars": 0,
       "forks": 0,
       "updated": "2025-09-18T04:09:04Z",
-      "url": "https://github.com/YamiCueto/e-commerce-with-ia"
+      "url": "https://github.com/YamiCueto/e-commerce-with-ia",
+      "has_pages": true,
+      "github_pages": "https://yamicueto.github.io/e-commerce-with-ia/",
+      "topics": []
     },
     {
       "name": "webflux-project",
-      "description": "No description",
+      "description": "Proyecto reactivo usando Spring WebFlux con programacion reactiva en Java",
       "language": "Java",
       "stars": 0,
       "forks": 0,
       "updated": "2025-05-01T20:08:47Z",
-      "url": "https://github.com/YamiCueto/webflux-project"
+      "url": "https://github.com/YamiCueto/webflux-project",
+      "has_pages": false,
+      "topics": []
     },
     {
       "name": "api-users",
-      "description": "Proyecto simple en java 17 para la generaci\u00f3n de una API RESTFULL que registra usuarios en una base de datos H2 en memoria.",
+      "description": "Proyecto simple en java 17 para la generacion de una API RESTFULL que registra usuarios en una base de datos H2 en memoria",
       "language": "Java",
       "stars": 0,
       "forks": 0,
       "updated": "2025-04-27T07:29:20Z",
-      "url": "https://github.com/YamiCueto/api-users"
+      "url": "https://github.com/YamiCueto/api-users",
+      "has_pages": false,
+      "topics": []
     }
-  ]
+  ],
+  "summary": {
+    "total_repos": 10,
+    "with_github_pages": 7,
+    "languages": {
+      "TypeScript": 3,
+      "Java": 2,
+      "HTML": 2,
+      "Markdown": 2,
+      "CSS": 1
+    },
+    "projects_with_demo": [
+      "cloud-cheatsheet",
+      "recetario-app",
+      "yamicueto.github.io",
+      "todo-list-app",
+      "academy.ia",
+      "e-commerce-with-ia"
+    ],
+    "backend_projects": [
+      "api-users",
+      "webflux-project"
+    ]
+  }
 }
