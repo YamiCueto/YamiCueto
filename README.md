@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 -->
 # 👋 ¡Hola! Soy Yamid Cueto
 
 <!-- Centered content -->
@@ -192,6 +193,7 @@ const yamiCueto: Developer = {
 
 ### 🔧 Proyectos Backend
 
+<!-- markdownlint-disable MD033 -->
 <table>
 <tr>
 <td width="50%">
