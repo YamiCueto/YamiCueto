@@ -1,0 +1,95 @@
+{
+  "updated_at": "2025-10-06T09:12:42.168350",
+  "repositories": [
+    {
+      "name": "YamiCueto",
+      "description": "No description",
+      "language": "Unknown",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-10-05T23:11:12Z",
+      "url": "https://github.com/YamiCueto/YamiCueto"
+    },
+    {
+      "name": "cloud-cheatsheet",
+      "description": "Dashboard interactivo que sirve como cuaderno de aprendizaje visual de los principales servicios de AWS",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-10-05T23:07:48Z",
+      "url": "https://github.com/YamiCueto/cloud-cheatsheet"
+    },
+    {
+      "name": "recetario-app",
+      "description": "No description",
+      "language": "CSS",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-10-05T22:26:10Z",
+      "url": "https://github.com/YamiCueto/recetario-app"
+    },
+    {
+      "name": "yamicueto.github.io",
+      "description": "\ud83d\udcbb **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**     ",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-10-01T22:26:35Z",
+      "url": "https://github.com/YamiCueto/yamicueto.github.io"
+    },
+    {
+      "name": "todo-list-app",
+      "description": "No description",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-10-01T19:02:41Z",
+      "url": "https://github.com/YamiCueto/todo-list-app"
+    },
+    {
+      "name": "academy.ia",
+      "description": "repo para una spa usando simplemente js, html y css",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-10-01T14:53:08Z",
+      "url": "https://github.com/YamiCueto/academy.ia"
+    },
+    {
+      "name": "comprame.co",
+      "description": "documentaci\u00f3n e-commerce comprame.co",
+      "language": "Unknown",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-09-27T15:03:28Z",
+      "url": "https://github.com/YamiCueto/comprame.co"
+    },
+    {
+      "name": "e-commerce-with-ia",
+      "description": "No description",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-09-18T04:09:04Z",
+      "url": "https://github.com/YamiCueto/e-commerce-with-ia"
+    },
+    {
+      "name": "webflux-project",
+      "description": "No description",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-05-01T20:08:47Z",
+      "url": "https://github.com/YamiCueto/webflux-project"
+    },
+    {
+      "name": "api-users",
+      "description": "Proyecto simple en java 17 para la generaci\u00f3n de una API RESTFULL que registra usuarios en una base de datos H2 en memoria.",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-04-27T07:29:20Z",
+      "url": "https://github.com/YamiCueto/api-users"
+    }
+  ]
+}

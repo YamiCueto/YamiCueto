@@ -242,6 +242,22 @@ const yamiCueto: Developer = {
 - 🤝 Contribuir más a proyectos open source
 - 📚 Compartir conocimiento a través de blogs y tutoriales
 
+
+---
+
+## 📈 Estadísticas Actualizadas
+
+**Última actualización:** 06/10/2025 09:12 UTC
+
+**Repositorios públicos:** 10
+
+**Lenguajes más utilizados:**
+
+- **TypeScript:** 3 proyectos
+- **HTML:** 2 proyectos
+- **Java:** 2 proyectos
+- **CSS:** 1 proyecto
+
 ---
 
 ## 💬 ¡Conectemos!
