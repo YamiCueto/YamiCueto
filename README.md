@@ -30,14 +30,15 @@ const yamiCueto: Developer = {
     
     technologies: {
         frontend: ["Angular", "TypeScript", "JavaScript", "HTML5", "CSS3"],
-        backend: ["Java", "Spring Boot", "Node.js"],
+        backend: ["Java", "Spring Boot", "Node.js", "Express"],
         databases: ["MySQL", "SQL Server", "PostgreSQL", "H2"],
         cloud: ["AWS Aurora", "S3", "ECS", "EC2", "Elastic Beanstalk"],
-        tools: ["Git", "Docker", "Jenkins", "Maven"]
+        tools: ["Git", "Docker", "Jenkins", "Maven"],
+        ai: ["OpenAI API", "Ollama", "Local LLMs", "Prompt Engineering"]
     },
     
-    currentFocus: "Building scalable web applications with modern technologies",
-    learning: "AI/ML integration in web development"
+    currentFocus: "Building AI-powered applications and developer tools",
+    learning: "Advanced AI integration and local LLM implementation"
 };
 ```
 
@@ -72,6 +73,12 @@ const yamiCueto: Developer = {
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### AI & Machine Learning
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI](https://img.shields.io/badge/Local_LLMs-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 </div>
 
@@ -198,6 +205,46 @@ const yamiCueto: Developer = {
 <tr>
 <td width="50%">
 
+#### 🦆 Rubberduck Studio
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+
+**Descripción:** Backend reflexivo para ayudar a desarrolladores a pensar y reflexionar sobre sus problemas de código usando IA local (Ollama) o servicios cloud (OpenAI)
+
+**Características:**
+
+- 🤖 Integración con IA local y cloud
+- 🧠 Sistema de reflexión inteligente
+- 🔄 API RESTful moderna
+- ⚡ Node.js & Express
+
+[📂 Ver Código](https://github.com/YamiCueto/rubberduck-studio)
+
+</td>
+<td width="50%">
+
+#### 🎨 Rubberduck Studio Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Descripción:** Interfaz Angular que permite escribir prompts, seleccionar modo reflexivo y mostrar la respuesta del "Duck" conectándose al backend Node.js
+
+**Características:**
+
+- 🎨 Interfaz Angular moderna
+- 🔗 Conexión seamless con backend
+- 💭 Editor de prompts inteligente
+- 🎯 Modo reflexivo interactivo
+
+[📂 Ver Código](https://github.com/YamiCueto/rubberduck-studio-frontend)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 #### 👥 API Users
 
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -261,16 +308,24 @@ const yamiCueto: Developer = {
 
 ## 📈 Estadísticas Actualizadas
 
-**Última actualización:** 06/10/2025 09:12 UTC
+**Última actualización:** 06/10/2025 20:38 UTC
 
-**Repositorios públicos:** 10
+**Repositorios públicos:** 12
 
 **Lenguajes más utilizados:**
 
-- **TypeScript:** 3 proyectos
-- **HTML:** 2 proyectos
+- **TypeScript:** 4 proyectos
+- **HTML:** 2 proyectos  
 - **Java:** 2 proyectos
+- **JavaScript:** 1 proyecto
 - **CSS:** 1 proyecto
+- **Markdown:** 2 proyectos
+
+**Proyectos destacados:**
+
+- 🤖 **2 nuevos proyectos con IA:** Rubberduck Studio (Full Stack)
+- 🌐 **7 proyectos con GitHub Pages**
+- 🔧 **4 proyectos Backend**
 
 ---
 
