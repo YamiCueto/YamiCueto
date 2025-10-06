@@ -86,12 +86,14 @@ const yamiCueto: Developer = {
 <td width="50%">
 
 #### 📝 [Todo List App](https://yamicueto.github.io/todo-list-app/)
+
 ![Todo App](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 **Descripción:** Aplicación de gestión de tareas moderna y responsiva
 
 **Tecnologías:**
+
 - ⚡ Angular
 - 🎨 Angular Material
 - 📱 TypeScript
@@ -103,6 +105,7 @@ const yamiCueto: Developer = {
 <td width="50%">
 
 #### 🎓 [Academy.IA](https://yamicueto.github.io/academy.ia/)
+
 ![Academy](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 ![Education](https://img.shields.io/badge/Education-4CAF50?style=for-the-badge&logo=google-scholar&logoColor=white)
@@ -110,6 +113,7 @@ const yamiCueto: Developer = {
 **Descripción:** Plataforma educativa potenciada con inteligencia artificial
 
 **Tecnologías:**
+
 - 🎓 Sistema de aprendizaje con IA
 - 🤖 Asistente educativo inteligente
 - ⚡ TypeScript
@@ -123,12 +127,14 @@ const yamiCueto: Developer = {
 <td width="50%">
 
 #### 🤖 [E-commerce with IA](https://yamicueto.github.io/e-commerce-with-ia/)
+
 ![AI Commerce](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 
 **Descripción:** Plataforma de e-commerce integrada con inteligencia artificial
 
 **Tecnologías:**
+
 - 🛍️ Sistema de e-commerce completo
 - 🤖 Integración con IA
 - ⚡ TypeScript
@@ -140,12 +146,14 @@ const yamiCueto: Developer = {
 <td width="50%">
 
 #### 🍽️ [Recetario App](https://yamicueto.github.io/recetario-app/)
+
 ![Recetario](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 **Descripción:** Aplicación para gestión de recetas culinarias
 
 **Tecnologías:**
+
 - ⚡ Angular 18
 - 🎨 CSS3
 - 📱 TypeScript
@@ -159,6 +167,7 @@ const yamiCueto: Developer = {
 <td width="50%">
 
 #### ☁️ [Cloud Cheatsheet](https://yamicueto.github.io/cloud-cheatsheet/)
+
 ![Cloud](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -166,6 +175,7 @@ const yamiCueto: Developer = {
 **Descripción:** Guía de referencia rápida para comandos y servicios cloud
 
 **Tecnologías:**
+
 - ☁️ AWS, Azure, GCP
 - 📚 Documentación interactiva
 - 🔧 Comandos y mejores prácticas
@@ -181,18 +191,19 @@ const yamiCueto: Developer = {
 <!-- markdownlint-enable MD033 -->
 
 ### 🔧 Proyectos Backend
-### 🔧 Proyectos Backend
 
 <table>
 <tr>
 <td width="50%">
 
 #### 👥 API Users
+
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 **Descripción:** API RESTful para gestión de usuarios con base de datos en memoria
 
 **Características:**
+
 - ☕ Java 17
 - 🚀 Spring Boot
 - 💾 Base de datos H2
@@ -204,11 +215,13 @@ const yamiCueto: Developer = {
 <td width="50%">
 
 #### ⚡ WebFlux Project
+
 ![Spring](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 **Descripción:** Proyecto reactivo usando Spring WebFlux
 
 **Características:**
+
 - ☕ Java
 - ⚡ Spring WebFlux
 - 🔄 Programación Reactiva
@@ -242,7 +255,6 @@ const yamiCueto: Developer = {
 - 🤝 Contribuir más a proyectos open source
 - 📚 Compartir conocimiento a través de blogs y tutoriales
 
-
 ---
 
 ## 📈 Estadísticas Actualizadas
@@ -260,7 +272,7 @@ const yamiCueto: Developer = {
 
 ---
 
-## 💬 ¡Conectemos!
+## 💬 ¡Conectemos
 
 <div align="center">
 
@@ -275,4 +287,3 @@ const yamiCueto: Developer = {
 *"La tecnología al servicio de soluciones reales"* ✨
 
 </div>
-
