@@ -93,7 +93,27 @@ const yamiCueto: Developer = {
 <tr>
 <td width="50%">
 
-#### 📝 [Todo List App](https://yamicueto.github.io/todo-list-app/)
+#### � [Promptly](https://yamicueto.github.io/promptly/)
+
+![Promptly](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![Chat](https://img.shields.io/badge/Chat_Interface-4CAF50?style=for-the-badge&logo=chat&logoColor=white)
+
+**Descripción:** Interfaz de chat moderna y atractiva para conectar con Ollama, OpenAI y cualquier API de LLM. UI inspirada en Claude, ChatGPT y Perplexity
+
+**Tecnologías:**
+
+- 🤖 Conexión con múltiples APIs de LLM
+- 💬 Interfaz chat moderna
+- ⚡ JavaScript vanilla
+- 🎨 UI inspirada en Claude/ChatGPT
+
+[📂 Ver Código](https://github.com/YamiCueto/promptly) | [🌐 Demo en Vivo](https://yamicueto.github.io/promptly/)
+
+</td>
+<td width="50%">
+
+#### �📝 [Todo List App](https://yamicueto.github.io/todo-list-app/)
 
 ![Todo App](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -110,6 +130,8 @@ const yamiCueto: Developer = {
 [📂 Ver Código](https://github.com/YamiCueto/todo-list-app) | [🌐 Demo en Vivo](https://yamicueto.github.io/todo-list-app/)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 🎓 [Academy.IA](https://yamicueto.github.io/academy.ia/)
@@ -130,8 +152,6 @@ const yamiCueto: Developer = {
 [📂 Ver Código](https://github.com/YamiCueto/academy.ia) | [🌐 Demo en Vivo](https://yamicueto.github.io/academy.ia/)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 #### 🤖 [E-commerce with IA](https://yamicueto.github.io/e-commerce-with-ia/)
@@ -151,6 +171,7 @@ const yamiCueto: Developer = {
 [📂 Ver Código](https://github.com/YamiCueto/e-commerce-with-ia) | [🌐 Demo en Vivo](https://yamicueto.github.io/e-commerce-with-ia/)
 
 </td>
+</tr>
 <td width="50%">
 
 #### 🍽️ [Recetario App](https://yamicueto.github.io/recetario-app/)
@@ -308,24 +329,25 @@ const yamiCueto: Developer = {
 
 ## 📈 Estadísticas Actualizadas
 
-**Última actualización:** 06/10/2025 20:38 UTC
+**Última actualización:** 08/10/2025 18:21 UTC
 
-**Repositorios públicos:** 12
+**Repositorios públicos:** 13
 
 **Lenguajes más utilizados:**
 
-- **TypeScript:** 4 proyectos
+- **TypeScript:** 3 proyectos
+- **JavaScript:** 3 proyectos
 - **HTML:** 2 proyectos  
 - **Java:** 2 proyectos
-- **JavaScript:** 1 proyecto
-- **CSS:** 1 proyecto
 - **Markdown:** 2 proyectos
+- **CSS:** 1 proyecto
 
 **Proyectos destacados:**
 
-- 🤖 **2 nuevos proyectos con IA:** Rubberduck Studio (Full Stack)
-- 🌐 **7 proyectos con GitHub Pages**
-- 🔧 **4 proyectos Backend**
+- 🤖 **5 proyectos con IA:** Promptly, Rubberduck Studio (Full Stack), Academy.IA, E-commerce IA
+- 🌐 **8 proyectos con GitHub Pages**
+- 🔧 **3 proyectos Backend**
+- 💬 **Nuevo:** Interfaz chat universal para LLMs
 
 ---
 
