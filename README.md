@@ -366,3 +366,18 @@ const yamiCueto: Developer = {
 *"La tecnología al servicio de soluciones reales"* ✨
 
 </div>
+
+---
+
+## 📈 Estadísticas Actualizadas
+
+**Última actualización:** 13/10/2025 09:12 UTC
+
+**Repositorios públicos:** 10
+
+**Lenguajes más utilizados:**
+
+- **TypeScript:** 3 proyectos
+- **JavaScript:** 2 proyectos
+- **HTML:** 2 proyectos
+- **CSS:** 1 proyecto

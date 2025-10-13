@@ -1,75 +1,59 @@
 {
-  "updated_at": "2025-10-08T18:21:17Z",
-  "total_repositories": 13,
+  "updated_at": "2025-10-13T09:12:52.158737",
   "repositories": [
     {
       "name": "promptly",
-      "description": "Promptly - Interfaz de chat moderna y atractiva para conectar con Ollama, OpenAI y cualquier API de LLM. UI inspirada en Claude, ChatGPT y Perplexity",
+      "description": "Promptly - Interfaz de chat moderna y atractiva para conectar con Ollama, OpenAI y cualquier API de LLM. UI inspirada en Claude, ChatGPT y Perplexity.",
       "language": "JavaScript",
       "stars": 0,
       "forks": 0,
-      "updated": "2025-10-08T18:21:17Z",
-      "url": "https://github.com/YamiCueto/promptly",
-      "has_pages": true,
-      "github_pages": "https://yamicueto.github.io/promptly/",
-      "topics": []
+      "updated": "2025-10-09T17:18:29Z",
+      "url": "https://github.com/YamiCueto/promptly"
+    },
+    {
+      "name": "YamiCueto",
+      "description": "No description",
+      "language": "Unknown",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-10-08T18:55:14Z",
+      "url": "https://github.com/YamiCueto/YamiCueto"
+    },
+    {
+      "name": "yamicueto.github.io",
+      "description": "\ud83d\udcbb **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**     ",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-10-08T18:42:56Z",
+      "url": "https://github.com/YamiCueto/yamicueto.github.io"
     },
     {
       "name": "academy.ia",
-      "description": "Plataforma educativa potenciada con inteligencia artificial - SPA usando JavaScript, HTML y CSS",
+      "description": "repo para una spa usando simplemente js, html y css",
       "language": "HTML",
       "stars": 0,
       "forks": 0,
       "updated": "2025-10-06T21:48:31Z",
-      "url": "https://github.com/YamiCueto/academy.ia",
-      "has_pages": true,
-      "github_pages": "https://yamicueto.github.io/academy.ia/",
-      "topics": []
-    },
-    {
-      "name": "YamiCueto",
-      "description": "Perfil de GitHub - Repositorio especial",
-      "language": "Markdown",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-10-06T20:42:28Z",
-      "url": "https://github.com/YamiCueto/YamiCueto",
-      "has_pages": true,
-      "topics": []
+      "url": "https://github.com/YamiCueto/academy.ia"
     },
     {
       "name": "rubberduck-studio",
-      "description": "Backend reflexivo para ayudar a desarrolladores a pensar y reflexionar sobre sus problemas de código usando IA local (Ollama) o servicios cloud (OpenAI)",
+      "description": "Backend reflexivo para ayudar a desarrolladores a pensar y reflexionar sobre sus problemas de c\u00f3digo usando IA local (Ollama) o servicios cloud (OpenAI).",
       "language": "JavaScript",
       "stars": 0,
       "forks": 0,
       "updated": "2025-10-06T20:42:08Z",
-      "url": "https://github.com/YamiCueto/rubberduck-studio",
-      "has_pages": false,
-      "topics": []
+      "url": "https://github.com/YamiCueto/rubberduck-studio"
     },
     {
       "name": "rubberduck-studio-frontend",
-      "description": "Interfaz Angular que permite escribir prompts, seleccionar modo reflexivo y mostrar la respuesta del Duck conectándose al backend Node.js (local o cloud)",
+      "description": "interfaz Angular que permita escribir prompts, seleccionar modo reflexivo y mostrar la respuesta del \"Duck\" conect\u00e1ndose al backend Node.js (local o cloud).",
       "language": "TypeScript",
       "stars": 0,
       "forks": 0,
       "updated": "2025-10-06T20:38:30Z",
-      "url": "https://github.com/YamiCueto/rubberduck-studio-frontend",
-      "has_pages": false,
-      "topics": []
-    },
-    {
-      "name": "yamicueto.github.io",
-      "description": "Ingeniero de Software - Full Stack Developer - Entusiasta de la IA - Portfolio Personal",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-10-06T17:08:51Z",
-      "url": "https://github.com/YamiCueto/yamicueto.github.io",
-      "has_pages": true,
-      "github_pages": "https://yamicueto.github.io/",
-      "topics": []
+      "url": "https://github.com/YamiCueto/rubberduck-studio-frontend"
     },
     {
       "name": "cloud-cheatsheet",
@@ -78,136 +62,34 @@
       "stars": 0,
       "forks": 0,
       "updated": "2025-10-06T14:46:50Z",
-      "url": "https://github.com/YamiCueto/cloud-cheatsheet",
-      "has_pages": true,
-      "github_pages": "https://yamicueto.github.io/cloud-cheatsheet/",
-      "topics": []
+      "url": "https://github.com/YamiCueto/cloud-cheatsheet"
     },
     {
       "name": "recetario-app",
-      "description": "Aplicacion para gestion de recetas culinarias con Angular 18",
+      "description": "No description",
       "language": "CSS",
       "stars": 0,
       "forks": 0,
       "updated": "2025-10-05T22:26:10Z",
-      "url": "https://github.com/YamiCueto/recetario-app",
-      "has_pages": true,
-      "github_pages": "https://yamicueto.github.io/recetario-app/",
-      "topics": []
-    },
-    {
-      "name": "yamicueto.github.io",
-      "description": "Ingeniero de Software - Full Stack Developer - Entusiasta de la IA - Portfolio Personal",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-10-01T22:26:35Z",
-      "url": "https://github.com/YamiCueto/yamicueto.github.io",
-      "has_pages": true,
-      "github_pages": "https://yamicueto.github.io/",
-      "topics": []
+      "url": "https://github.com/YamiCueto/recetario-app"
     },
     {
       "name": "todo-list-app",
-      "description": "Aplicacion de gestion de tareas moderna y responsiva con Angular",
+      "description": "No description",
       "language": "TypeScript",
       "stars": 0,
       "forks": 0,
       "updated": "2025-10-01T19:02:41Z",
-      "url": "https://github.com/YamiCueto/todo-list-app",
-      "has_pages": true,
-      "github_pages": "https://yamicueto.github.io/todo-list-app/",
-      "topics": []
-    },
-    {
-      "name": "academy.ia",
-      "description": "Plataforma educativa potenciada con inteligencia artificial - SPA usando JavaScript HTML y CSS",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-10-01T14:53:08Z",
-      "url": "https://github.com/YamiCueto/academy.ia",
-      "has_pages": true,
-      "github_pages": "https://yamicueto.github.io/academy.ia/",
-      "topics": []
+      "url": "https://github.com/YamiCueto/todo-list-app"
     },
     {
       "name": "comprame.co",
-      "description": "Documentacion e-commerce comprame.co",
-      "language": "Markdown",
+      "description": "documentaci\u00f3n e-commerce comprame.co",
+      "language": "Unknown",
       "stars": 0,
       "forks": 0,
       "updated": "2025-09-27T15:03:28Z",
-      "url": "https://github.com/YamiCueto/comprame.co",
-      "has_pages": false,
-      "topics": []
-    },
-    {
-      "name": "e-commerce-with-ia",
-      "description": "Plataforma de e-commerce integrada con inteligencia artificial",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-09-18T04:09:04Z",
-      "url": "https://github.com/YamiCueto/e-commerce-with-ia",
-      "has_pages": true,
-      "github_pages": "https://yamicueto.github.io/e-commerce-with-ia/",
-      "topics": []
-    },
-    {
-      "name": "webflux-project",
-      "description": "Proyecto reactivo usando Spring WebFlux con programacion reactiva en Java",
-      "language": "Java",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-05-01T20:08:47Z",
-      "url": "https://github.com/YamiCueto/webflux-project",
-      "has_pages": false,
-      "topics": []
-    },
-    {
-      "name": "api-users",
-      "description": "Proyecto simple en java 17 para la generacion de una API RESTFULL que registra usuarios en una base de datos H2 en memoria",
-      "language": "Java",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-04-27T07:29:20Z",
-      "url": "https://github.com/YamiCueto/api-users",
-      "has_pages": false,
-      "topics": []
+      "url": "https://github.com/YamiCueto/comprame.co"
     }
-  ],
-  "summary": {
-    "total_repos": 13,
-    "with_github_pages": 8,
-    "languages": {
-      "TypeScript": 3,
-      "JavaScript": 3,
-      "HTML": 2,
-      "Java": 2,
-      "Markdown": 2,
-      "CSS": 1
-    },
-    "projects_with_demo": [
-      "promptly",
-      "academy.ia",
-      "yamicueto.github.io",
-      "cloud-cheatsheet",
-      "recetario-app",
-      "todo-list-app",
-      "e-commerce-with-ia"
-    ],
-    "backend_projects": [
-      "rubberduck-studio",
-      "api-users",
-      "webflux-project"
-    ],
-    "ai_projects": [
-      "promptly",
-      "rubberduck-studio", 
-      "rubberduck-studio-frontend",
-      "academy.ia",
-      "e-commerce-with-ia"
-    ]
-  }
+  ]
 }
