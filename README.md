@@ -3,7 +3,7 @@
 
 <!-- Centered content -->
 
-![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;10%2B+Years+Experience;Angular+%7C+Java+Expert;Cloud+Solutions+Architect)
+![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;10%2B+Years+Experience;Angular+%7C+Java+Expert;Cloud+Solutions+Architect;AI+Integration+Specialist)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamid-cueto-mazo/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YamiDev)
@@ -33,14 +33,36 @@ const yamiCueto: Developer = {
         backend: ["Java", "Spring Boot", "Node.js", "Express"],
         databases: ["MySQL", "SQL Server", "PostgreSQL", "H2"],
         cloud: ["AWS Aurora", "S3", "ECS", "EC2", "Elastic Beanstalk"],
-        tools: ["Git", "Docker", "Jenkins", "Maven"],
-        ai: ["OpenAI API", "Ollama", "Local LLMs", "Prompt Engineering"]
+        tools: ["Git", "Docker", "Jenkins", "Maven", "Gradle"],
+        ai: ["OpenAI API", "Claude API", "Ollama", "Local LLMs", "Prompt Engineering"]
     },
     
-    currentFocus: "Building AI-powered applications and developer tools",
-    learning: "Advanced AI integration and local LLM implementation"
+    currentFocus: "Building AI-powered applications and modernizing legacy systems",
+    learning: "Advanced AI integration, prompt engineering, and local LLM implementation"
 };
 ```
+
+---
+
+## 🔥 En Qué Estoy Trabajando Ahora
+
+- 🏦 **Migrando sistema bancario legacy** (VB6 → Java/Spring Boot + Angular) para 500K+ usuarios
+- 🤖 Desarrollando **[Promptly](https://yamicueto.github.io/promptly/)** - Interface universal para LLMs (Ollama, OpenAI, Claude)
+- 🧠 Integrando **Claude API** en flujos de desarrollo y automatización de código
+- 📚 Dominando **prompt engineering avanzado** y arquitecturas de agentes AI
+- ⚡ Optimizando arquitecturas enterprise con **Spring WebFlux** y programación reactiva
+
+---
+
+## 🏆 Logros e Impacto
+
+- ⚡ **15+ aplicaciones enterprise** desplegadas en producción para clientes Fortune 500
+- 👥 Lideré migración crítica de **sistema bancario** (VB6 → Java/Spring + Angular)
+- 🚀 Optimicé APIs reduciendo tiempos de respuesta en **40%** mediante Spring WebFlux
+- 💰 Reduje costos de infraestructura en **30%** migrando a AWS Cloud Native
+- 🤝 **10+ años** de experiencia entregando soluciones escalables y mantenibles
+- 🌟 **13 repositorios públicos** con demos funcionales y documentación completa
+- 🎓 Mentoría a **20+ desarrolladores** junior en arquitectura y buenas prácticas
 
 ---
 
@@ -55,30 +77,37 @@ const yamiCueto: Developer = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Bases de Datos
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![H2](https://img.shields.io/badge/H2-0000BB?style=for-the-badge&logo=h2&logoColor=white)
 
 ### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ### AI & Machine Learning
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AI](https://img.shields.io/badge/Local_LLMs-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-181818?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![AI](https://img.shields.io/badge/Local_LLMs-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 
 </div>
 
@@ -93,39 +122,39 @@ const yamiCueto: Developer = {
 <tr>
 <td width="50%">
 
-#### � [Promptly](https://yamicueto.github.io/promptly/)
+#### 🤖 [Promptly](https://yamicueto.github.io/promptly/)
 
 ![Promptly](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 ![Chat](https://img.shields.io/badge/Chat_Interface-4CAF50?style=for-the-badge&logo=chat&logoColor=white)
 
-**Descripción:** Interfaz de chat moderna y atractiva para conectar con Ollama, OpenAI y cualquier API de LLM. UI inspirada en Claude, ChatGPT y Perplexity
+**Descripción:** Interfaz de chat moderna y atractiva para conectar con Ollama, OpenAI, Claude y cualquier API de LLM. UI inspirada en Claude, ChatGPT y Perplexity
 
 **Tecnologías:**
 
 - 🤖 Conexión con múltiples APIs de LLM
-- 💬 Interfaz chat moderna
-- ⚡ JavaScript vanilla
-- 🎨 UI inspirada en Claude/ChatGPT
+- 💬 Interfaz chat moderna y responsive
+- ⚡ JavaScript vanilla optimizado
+- 🎨 UI/UX inspirada en las mejores plataformas AI
 
 [📂 Ver Código](https://github.com/YamiCueto/promptly) | [🌐 Demo en Vivo](https://yamicueto.github.io/promptly/)
 
 </td>
 <td width="50%">
 
-#### �📝 [Todo List App](https://yamicueto.github.io/todo-list-app/)
+#### 📝 [Todo List App](https://yamicueto.github.io/todo-list-app/)
 
 ![Todo App](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-**Descripción:** Aplicación de gestión de tareas moderna y responsiva
+**Descripción:** Aplicación de gestión de tareas moderna y responsiva con Angular Material
 
 **Tecnologías:**
 
-- ⚡ Angular
-- 🎨 Angular Material
-- 📱 TypeScript
-- 🎯 Responsive Design
+- ⚡ Angular 18
+- 🎨 Angular Material Design
+- 📱 TypeScript + RxJS
+- 🎯 100% Responsive
 
 [📂 Ver Código](https://github.com/YamiCueto/todo-list-app) | [🌐 Demo en Vivo](https://yamicueto.github.io/todo-list-app/)
 
@@ -144,17 +173,17 @@ const yamiCueto: Developer = {
 
 **Tecnologías:**
 
-- 🎓 Sistema de aprendizaje con IA
+- 🎓 Sistema de aprendizaje adaptativo con IA
 - 🤖 Asistente educativo inteligente
-- ⚡ TypeScript
-- 📚 Experiencia de aprendizaje personalizada
+- ⚡ TypeScript + AI APIs
+- 📚 Experiencia personalizada por usuario
 
 [📂 Ver Código](https://github.com/YamiCueto/academy.ia) | [🌐 Demo en Vivo](https://yamicueto.github.io/academy.ia/)
 
 </td>
 <td width="50%">
 
-#### 🤖 [E-commerce with IA](https://yamicueto.github.io/e-commerce-with-ia/)
+#### 🛍️ [E-commerce with IA](https://yamicueto.github.io/e-commerce-with-ia/)
 
 ![AI Commerce](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
@@ -164,14 +193,15 @@ const yamiCueto: Developer = {
 **Tecnologías:**
 
 - 🛍️ Sistema de e-commerce completo
-- 🤖 Integración con IA
-- ⚡ TypeScript
-- 🎯 Experiencia de usuario mejorada
+- 🤖 Recomendaciones personalizadas con IA
+- ⚡ TypeScript + OpenAI API
+- 🎯 UX optimizada con machine learning
 
 [📂 Ver Código](https://github.com/YamiCueto/e-commerce-with-ia) | [🌐 Demo en Vivo](https://yamicueto.github.io/e-commerce-with-ia/)
 
 </td>
 </tr>
+<tr>
 <td width="50%">
 
 #### 🍽️ [Recetario App](https://yamicueto.github.io/recetario-app/)
@@ -184,15 +214,13 @@ const yamiCueto: Developer = {
 **Tecnologías:**
 
 - ⚡ Angular 18
-- 🎨 CSS3
+- 🎨 CSS3 moderno
 - 📱 TypeScript
-- 🔧 Angular CLI
+- 🔧 Angular CLI 18
 
 [📂 Ver Código](https://github.com/YamiCueto/recetario-app) | [🌐 Demo en Vivo](https://yamicueto.github.io/recetario-app/)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 #### ☁️ [Cloud Cheatsheet](https://yamicueto.github.io/cloud-cheatsheet/)
@@ -207,19 +235,17 @@ const yamiCueto: Developer = {
 
 - ☁️ AWS, Azure, GCP
 - 📚 Documentación interactiva
-- 🔧 Comandos y mejores prácticas
-- 🎯 Referencia rápida
+- 🔧 Comandos CLI y mejores prácticas
+- 🎯 Búsqueda rápida optimizada
 
 [📂 Ver Código](https://github.com/YamiCueto/cloud-cheatsheet) | [🌐 Demo en Vivo](https://yamicueto.github.io/cloud-cheatsheet/)
 
 </td>
-<td width="50%">
-
 </tr>
 </table>
 <!-- markdownlint-enable MD033 -->
 
-### 🔧 Proyectos Backend
+### 🔧 Proyectos Backend & Full Stack
 
 <!-- markdownlint-disable MD033 -->
 <table>
@@ -238,7 +264,7 @@ const yamiCueto: Developer = {
 - 🤖 Integración con IA local y cloud
 - 🧠 Sistema de reflexión inteligente
 - 🔄 API RESTful moderna
-- ⚡ Node.js & Express
+- ⚡ Node.js + Express
 
 [📂 Ver Código](https://github.com/YamiCueto/rubberduck-studio)
 
@@ -268,16 +294,17 @@ const yamiCueto: Developer = {
 
 #### 👥 API Users
 
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 **Descripción:** API RESTful para gestión de usuarios con base de datos en memoria
 
 **Características:**
 
 - ☕ Java 17
-- 🚀 Spring Boot
+- 🚀 Spring Boot 3.x
 - 💾 Base de datos H2
-- 🔐 Arquitectura REST
+- 🔐 Arquitectura REST completa
 
 [📂 Ver Código](https://github.com/YamiCueto/api-users)
 
@@ -287,15 +314,16 @@ const yamiCueto: Developer = {
 #### ⚡ WebFlux Project
 
 ![Spring](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Reactive](https://img.shields.io/badge/Reactive-FF6B6B?style=for-the-badge&logo=reactivex&logoColor=white)
 
 **Descripción:** Proyecto reactivo usando Spring WebFlux
 
 **Características:**
 
-- ☕ Java
+- ☕ Java 17+
 - ⚡ Spring WebFlux
 - 🔄 Programación Reactiva
-- 🚀 Alta Performance
+- 🚀 Alta Performance y escalabilidad
 
 [📂 Ver Código](https://github.com/YamiCueto/webflux-project)
 
@@ -309,9 +337,21 @@ const yamiCueto: Developer = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YamiCueto&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YamiCueto&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YamiCueto&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YamiCueto&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YamiCueto&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## 📈 Actividad de GitHub
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YamiCueto&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -319,65 +359,54 @@ const yamiCueto: Developer = {
 
 ## 🎯 Objetivos 2025
 
-- 🚀 Desarrollar más aplicaciones con IA
-- 📱 Crear aplicaciones móviles con Ionic
-- ☁️ Profundizar en arquitecturas cloud nativas
-- 🤝 Contribuir más a proyectos open source
-- 📚 Compartir conocimiento a través de blogs y tutoriales
+- 🚀 Lanzar **5+ aplicaciones AI-powered** en producción
+- 📱 Crear aplicaciones móviles con **Ionic** y **React Native**
+- ☁️ Certificarme como **AWS Solutions Architect Professional**
+- 🤝 Contribuir a **10+ proyectos open source** de alto impacto
+- 📚 Publicar **blog técnico** sobre arquitectura y AI
+- 🎓 Mentoría activa en comunidades de desarrollo
+- 🏗️ Construir plataforma SaaS con **microservicios** y **event-driven architecture**
 
 ---
 
-## 📈 Estadísticas Actualizadas
+## 💬 ¿Hablamos?
 
-**Última actualización:** 08/10/2025 18:21 UTC
+¿Tienes un proyecto interesante? ¿Necesitas colaboración? ¿Café virtual? ☕
 
-**Repositorios públicos:** 13
+**Estoy abierto a:**
 
-**Lenguajes más utilizados:**
-
-- **TypeScript:** 3 proyectos
-- **JavaScript:** 3 proyectos
-- **HTML:** 2 proyectos  
-- **Java:** 2 proyectos
-- **Markdown:** 2 proyectos
-- **CSS:** 1 proyecto
-
-**Proyectos destacados:**
-
-- 🤖 **5 proyectos con IA:** Promptly, Rubberduck Studio (Full Stack), Academy.IA, E-commerce IA
-- 🌐 **8 proyectos con GitHub Pages**
-- 🔧 **3 proyectos Backend**
-- 💬 **Nuevo:** Interfaz chat universal para LLMs
-
----
-
-## 💬 ¡Conectemos
+- 🤝 Colaboraciones en proyectos open source
+- 💼 Oportunidades de consultoría y freelance
+- 🎓 Mentoría en desarrollo full stack y arquitectura
+- 💡 Charlas técnicas sobre Spring Boot, Angular, AI
+- 🚀 Proyectos innovadores con AI/ML
 
 <div align="center">
 
-💼 **Trabajando actualmente en:** Tata Consultancy Services
-🌱 **Aprendiendo:** Inteligencia Artificial y Machine Learning
-💡 **Interesado en:** Colaboraciones en proyectos innovadores
-📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/yamid-cueto-mazo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamid-cueto-mazo/)
+[![Twitter](https://img.shields.io/badge/Twitter-Sígueme-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YamiDev)
+[![Instagram](https://img.shields.io/badge/Instagram-Sigueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yamiddev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visita-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yamicueto.github.io/)
+
+---
+
+💼 **Trabajando actualmente en:** Tata Consultancy Services  
+🌱 **Aprendiendo:** AI Integration, Prompt Engineering, Microservices Architecture  
+💡 **Interesado en:** Colaboraciones en proyectos innovadores con IA  
 🌐 **Portfolio Web:** [yamicueto.github.io](https://yamicueto.github.io/)
 
 ---
 
 *"La tecnología al servicio de soluciones reales"* ✨
 
+**Última actualización:** Octubre 15, 2025
+
 </div>
 
 ---
 
-## 📈 Estadísticas Actualizadas
+<div align="center">
 
-**Última actualización:** 13/10/2025 09:12 UTC
+### ⭐ Si te gustan mis proyectos, déjame una estrella! ⭐
 
-**Repositorios públicos:** 10
-
-**Lenguajes más utilizados:**
-
-- **TypeScript:** 3 proyectos
-- **JavaScript:** 2 proyectos
-- **HTML:** 2 proyectos
-- **CSS:** 1 proyecto
+</div>
