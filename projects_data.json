@@ -1,6 +1,24 @@
 {
-  "updated_at": "2025-10-13T09:12:52.158737",
+  "updated_at": "2025-10-20T09:12:09.199083",
   "repositories": [
+    {
+      "name": "yamicueto.github.io",
+      "description": "\ud83d\udcbb **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**     ",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-10-15T20:31:38Z",
+      "url": "https://github.com/YamiCueto/yamicueto.github.io"
+    },
+    {
+      "name": "YamiCueto",
+      "description": "No description",
+      "language": "Unknown",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-10-15T15:10:38Z",
+      "url": "https://github.com/YamiCueto/YamiCueto"
+    },
     {
       "name": "promptly",
       "description": "Promptly - Interfaz de chat moderna y atractiva para conectar con Ollama, OpenAI y cualquier API de LLM. UI inspirada en Claude, ChatGPT y Perplexity.",
@@ -9,24 +27,6 @@
       "forks": 0,
       "updated": "2025-10-09T17:18:29Z",
       "url": "https://github.com/YamiCueto/promptly"
-    },
-    {
-      "name": "YamiCueto",
-      "description": "No description",
-      "language": "Unknown",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-10-08T18:55:14Z",
-      "url": "https://github.com/YamiCueto/YamiCueto"
-    },
-    {
-      "name": "yamicueto.github.io",
-      "description": "\ud83d\udcbb **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**     ",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-10-08T18:42:56Z",
-      "url": "https://github.com/YamiCueto/yamicueto.github.io"
     },
     {
       "name": "academy.ia",

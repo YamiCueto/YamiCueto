@@ -410,3 +410,18 @@ const yamiCueto: Developer = {
 ### ⭐ Si te gustan mis proyectos, déjame una estrella! ⭐
 
 </div>
+
+---
+
+## 📈 Estadísticas Actualizadas
+
+**Última actualización:** 20/10/2025 09:12 UTC
+
+**Repositorios públicos:** 10
+
+**Lenguajes más utilizados:**
+
+- **JavaScript:** 3 proyectos
+- **TypeScript:** 3 proyectos
+- **HTML:** 1 proyecto
+- **CSS:** 1 proyecto
