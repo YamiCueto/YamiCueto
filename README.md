@@ -425,3 +425,17 @@ const yamiCueto: Developer = {
 - **TypeScript:** 3 proyectos
 - **HTML:** 1 proyecto
 - **CSS:** 1 proyecto
+---
+
+## 📈 Estadísticas Actualizadas
+
+**Última actualización:** 27/10/2025 09:13 UTC
+
+**Repositorios públicos:** 10
+
+**Lenguajes más utilizados:**
+
+- **JavaScript:** 3 proyectos
+- **CSS:** 2 proyectos
+- **TypeScript:** 2 proyectos
+- **HTML:** 1 proyecto
