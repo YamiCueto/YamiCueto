@@ -1,7 +1,5 @@
 # Conectemos
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamid-cueto-mazo/)
 [![Twitter](https://img.shields.io/badge/Twitter-Sígueme-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YamiDev)
 [![Instagram](https://img.shields.io/badge/Instagram-Sigueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yamiddev/)
@@ -18,28 +16,22 @@
 
 "La tecnología al servicio de soluciones reales" ✨
 
-</div>
-
 ---
-
-<div align="center">
 
 ## ⭐ Si te gustan mis proyectos, déjame una estrella! ⭐
 
-</div>
-
 ---
 
-## � Estadísticas Actualizadas
+## Estadísticas Actualizadas
 
 **Última actualización:** 31/10/2025 18:10 UTC
 
-**Repositorios públicos:** 17
+**Repositorios públicos:** 19
 
 **Lenguajes más utilizados:**
 
 - **TypeScript:** 4 proyectos
-- **JavaScript:** 5 proyectos
+- **JavaScript:** 7 proyectos
 - **Java:** 2 proyectos
 - **HTML:** 1 proyecto
 - **CSS:** 2 proyectos
@@ -69,15 +61,53 @@
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![AI](https://img.shields.io/badge/Local_LLMs-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 
-</div>
-
 ---
 
 ## 🌟 Proyectos Destacados
 
 ### 🚀 Aplicaciones en Vivo (GitHub Pages)
 
-<!-- markdownlint-disable MD033 -->
+<table>
+<tr>
+<td width="50%">
+
+#### 🚦 [Flowly](https://yamicueto.github.io/Flowly/)
+
+![Flowly](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Descripción:** Mapa interactivo de cámaras de fotodetección en Barranquilla, Colombia MVP
+
+**Tecnologías:**
+
+- 🗺️ Mapas interactivos
+- ⚡ JavaScript optimizado
+- 📍 Geolocalización
+
+[📂 Ver Código](https://github.com/YamiCueto/Flowly) | [🌐 Demo en Vivo](https://yamicueto.github.io/Flowly/)
+
+</td>
+<td width="50%">
+
+#### 🚦 [FotomultasLab](https://yamicueto.github.io/fotomultaslab/)
+
+![FotomultasLab](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Descripción:** Mapa interactivo de cámaras de fotodetección en Barranquilla, Colombia MVP
+
+**Tecnologías:**
+
+- 🗺️ Mapas interactivos
+- ⚡ JavaScript optimizado
+- 📍 Geolocalización
+
+[📂 Ver Código](https://github.com/YamiCueto/fotomultaslab) | [🌐 Demo en Vivo](https://yamicueto.github.io/fotomultaslab/)
+
+</td>
+</tr>
+</table>
+
 <table>
 <tr>
 <td width="50%">
@@ -203,11 +233,9 @@
 </td>
 </tr>
 </table>
-<!-- markdownlint-enable MD033 -->
 
 ### 🔧 Proyectos Backend & Full Stack
 
-<!-- markdownlint-disable MD033 -->
 <table>
 <tr>
 <td width="50%">
@@ -295,25 +323,17 @@
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YamiCueto&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YamiCueto&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YamiCueto&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-</div>
-
 ---
 
 ## 📈 Actividad de GitHub
 
-<div align="center">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YamiCueto&theme=react-dark&hide_border=true&area=true)
-
-</div>
 
 ---
 

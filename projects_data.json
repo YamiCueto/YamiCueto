@@ -91,14 +91,32 @@
       "forks": 0,
       "updated": "2025-10-05T22:26:10Z",
       "url": "https://github.com/YamiCueto/recetario-app"
+    },
+    {
+      "name": "Flowly",
+      "description": "Mapa interactivo de cámaras de fotodetección en Barranquilla, Colombia MVP",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-10-31T00:44:56Z",
+      "url": "https://github.com/YamiCueto/Flowly"
+    },
+    {
+      "name": "fotomultaslab",
+      "description": "🚦 Mapa interactivo de cámaras de fotodetección en Barranquilla, Colombia MVP",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-10-31T18:16:22Z",
+      "url": "https://github.com/YamiCueto/fotomultaslab"
     }
   ],
   "summary": {
-    "total_repos": 17,
+    "total_repos": 19,
     "with_github_pages": 10,
     "languages": {
       "TypeScript": 4,
-      "JavaScript": 5,
+      "JavaScript": 7,
       "Java": 2,
       "HTML": 1,
       "CSS": 2,
