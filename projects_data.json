@@ -1,5 +1,6 @@
 {
-  "updated_at": "2025-10-27T09:13:12.993984",
+  "updated_at": "2025-10-31T18:10:00Z",
+  "total_repositories": 17,
   "repositories": [
     {
       "name": "learning-flex-box",
@@ -91,5 +92,34 @@
       "updated": "2025-10-05T22:26:10Z",
       "url": "https://github.com/YamiCueto/recetario-app"
     }
-  ]
+  ],
+  "summary": {
+    "total_repos": 17,
+    "with_github_pages": 10,
+    "languages": {
+      "TypeScript": 4,
+      "JavaScript": 5,
+      "Java": 2,
+      "HTML": 1,
+      "CSS": 2,
+      "Markdown": 3
+    },
+    "projects_with_demo": [
+      "cloud-cheatsheet",
+      "recetario-app",
+      "yamicueto.github.io",
+      "todo-list-app",
+      "academy.ia",
+      "e-commerce-with-ia",
+      "promptly",
+      "Flowly",
+      "fotomultaslab",
+      "lawyers-page"
+    ],
+    "backend_projects": [
+      "api-users",
+      "webflux-project",
+      "rubberduck-studio"
+    ]
+  }
 }

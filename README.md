@@ -1,96 +1,56 @@
-<!-- markdownlint-disable MD033 -->
-# 👋 ¡Hola! Soy Yamid Cueto
+# Conectemos
 
-<!-- Centered content -->
+<div align="center">
 
-![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;10%2B+Years+Experience;Angular+%7C+Java+Expert;Cloud+Solutions+Architect;AI+Integration+Specialist)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamid-cueto-mazo/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YamiDev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yamiddev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yamicueto.github.io/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YamiCueto&color=36BCF7&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/YamiCueto?style=for-the-badge&color=36BCF7)
-
-<!-- End centered content -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamid-cueto-mazo/)
+[![Twitter](https://img.shields.io/badge/Twitter-Sígueme-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YamiDev)
+[![Instagram](https://img.shields.io/badge/Instagram-Sigueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yamiddev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visita-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yamicueto.github.io/)
 
 ---
 
-## 🚀 Sobre Mí
-
-```typescript
-const yamiCueto: Developer = {
-    name: "Yamid Cueto Mazo",
-    role: "Full Stack Developer",
-    company: "Tata Consultancy Services",
-    location: "Colombia 🇨🇴",
-    experience: "10+ años",
-    motto: "Simply Developer 💻",
-    
-    technologies: {
-        frontend: ["Angular", "TypeScript", "JavaScript", "HTML5", "CSS3"],
-        backend: ["Java", "Spring Boot", "Node.js", "Express"],
-        databases: ["MySQL", "SQL Server", "PostgreSQL", "H2"],
-        cloud: ["AWS Aurora", "S3", "ECS", "EC2", "Elastic Beanstalk"],
-        tools: ["Git", "Docker", "Jenkins", "Maven", "Gradle"],
-        ai: ["OpenAI API", "Claude API", "Ollama", "Local LLMs", "Prompt Engineering"]
-    },
-    
-    currentFocus: "Building AI-powered applications and modernizing legacy systems",
-    learning: "Advanced AI integration, prompt engineering, and local LLM implementation"
-};
-```
+💼 **Trabajando actualmente en:** Tata Consultancy Services  
+🌱 **Aprendiendo:** AI Integration, Prompt Engineering, Microservices Architecture  
+💡 **Interesado en:** Colaboraciones en proyectos innovadores con IA  
+🌐 **Portfolio Web:** [yamicueto.github.io](https://yamicueto.github.io/)
 
 ---
 
-## 🔥 En Qué Estoy Trabajando Ahora
+"La tecnología al servicio de soluciones reales" ✨
 
-- 🏦 **Migrando sistema bancario legacy** (VB6 → Java/Spring Boot + Angular) para 500K+ usuarios
-- 🤖 Desarrollando **[Promptly](https://yamicueto.github.io/promptly/)** - Interface universal para LLMs (Ollama, OpenAI, Claude)
-- 🧠 Integrando **Claude API** en flujos de desarrollo y automatización de código
-- 📚 Dominando **prompt engineering avanzado** y arquitecturas de agentes AI
-- ⚡ Optimizando arquitecturas enterprise con **Spring WebFlux** y programación reactiva
+</div>
 
 ---
 
-## 🏆 Logros e Impacto
+<div align="center">
 
-- ⚡ **15+ aplicaciones enterprise** desplegadas en producción para clientes Fortune 500
-- 👥 Lideré migración crítica de **sistema bancario** (VB6 → Java/Spring + Angular)
-- 🚀 Optimicé APIs reduciendo tiempos de respuesta en **40%** mediante Spring WebFlux
-- 💰 Reduje costos de infraestructura en **30%** migrando a AWS Cloud Native
-- 🤝 **10+ años** de experiencia entregando soluciones escalables y mantenibles
-- 🌟 **13 repositorios públicos** con demos funcionales y documentación completa
-- 🎓 Mentoría a **20+ desarrolladores** junior en arquitectura y buenas prácticas
+## ⭐ Si te gustan mis proyectos, déjame una estrella! ⭐
+
+</div>
 
 ---
 
-## 🛠️ Stack Tecnológico
+## � Estadísticas Actualizadas
 
-<!-- Centered content (Markdown does not support true centering, but this section is intended to be centered) -->
+**Última actualización:** 31/10/2025 18:10 UTC
 
-### Frontend
+**Repositorios públicos:** 17
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+**Lenguajes más utilizados:**
 
-### Backend
+- **TypeScript:** 4 proyectos
+- **JavaScript:** 5 proyectos
+- **Java:** 2 proyectos
+- **HTML:** 1 proyecto
+- **CSS:** 2 proyectos
+- **Markdown / Otros:** 3 proyectos
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+**Proyectos destacados:**
 
-### Bases de Datos
+- 🤖 **Nuevos proyectos con IA / herramientas:** Rubberduck Studio, Promptly
+- 🌐 **Proyectos con GitHub Pages:** 10
+- 🔧 **Proyectos Backend:** 3
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-0000BB?style=for-the-badge&logo=h2&logoColor=white)
 
@@ -380,62 +340,3 @@ const yamiCueto: Developer = {
 - 🎓 Mentoría en desarrollo full stack y arquitectura
 - 💡 Charlas técnicas sobre Spring Boot, Angular, AI
 - 🚀 Proyectos innovadores con AI/ML
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamid-cueto-mazo/)
-[![Twitter](https://img.shields.io/badge/Twitter-Sígueme-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YamiDev)
-[![Instagram](https://img.shields.io/badge/Instagram-Sigueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yamiddev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visita-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yamicueto.github.io/)
-
----
-
-💼 **Trabajando actualmente en:** Tata Consultancy Services  
-🌱 **Aprendiendo:** AI Integration, Prompt Engineering, Microservices Architecture  
-💡 **Interesado en:** Colaboraciones en proyectos innovadores con IA  
-🌐 **Portfolio Web:** [yamicueto.github.io](https://yamicueto.github.io/)
-
----
-
-*"La tecnología al servicio de soluciones reales"* ✨
-
-**Última actualización:** Octubre 15, 2025
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Si te gustan mis proyectos, déjame una estrella! ⭐
-
-</div>
-
----
-
-## 📈 Estadísticas Actualizadas
-
-**Última actualización:** 20/10/2025 09:12 UTC
-
-**Repositorios públicos:** 10
-
-**Lenguajes más utilizados:**
-
-- **JavaScript:** 3 proyectos
-- **TypeScript:** 3 proyectos
-- **HTML:** 1 proyecto
-- **CSS:** 1 proyecto
----
-
-## 📈 Estadísticas Actualizadas
-
-**Última actualización:** 27/10/2025 09:13 UTC
-
-**Repositorios públicos:** 10
-
-**Lenguajes más utilizados:**
-
-- **JavaScript:** 3 proyectos
-- **CSS:** 2 proyectos
-- **TypeScript:** 2 proyectos
-- **HTML:** 1 proyecto
