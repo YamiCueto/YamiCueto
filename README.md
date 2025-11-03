@@ -360,3 +360,17 @@
 - 🎓 Mentoría en desarrollo full stack y arquitectura
 - 💡 Charlas técnicas sobre Spring Boot, Angular, AI
 - 🚀 Proyectos innovadores con AI/ML
+---
+
+## 📈 Estadísticas Actualizadas
+
+**Última actualización:** 03/11/2025 09:13 UTC
+
+**Repositorios públicos:** 10
+
+**Lenguajes más utilizados:**
+
+- **JavaScript:** 4 proyectos
+- **HTML:** 2 proyectos
+- **TypeScript:** 1 proyecto
+- **CSS:** 1 proyecto
