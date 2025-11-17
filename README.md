@@ -24,24 +24,25 @@
 
 ## Estadísticas Actualizadas
 
-**Última actualización:** 31/10/2025 18:10 UTC
+**Última actualización:** 17/11/2025 15:00 UTC
 
-**Repositorios públicos:** 19
+**Repositorios públicos:** 21
 
 **Lenguajes más utilizados:**
 
-- **TypeScript:** 4 proyectos
 - **JavaScript:** 7 proyectos
+- **TypeScript:** 5 proyectos
+- **CSS:** 3 proyectos
 - **Java:** 2 proyectos
 - **HTML:** 1 proyecto
-- **CSS:** 2 proyectos
-- **Markdown / Otros:** 3 proyectos
+- **Otros:** 3 proyectos
 
 **Proyectos destacados:**
 
-- 🤖 **Nuevos proyectos con IA / herramientas:** Rubberduck Studio, Promptly
-- 🌐 **Proyectos con GitHub Pages:** 10
+- 🤖 **Nuevos proyectos con IA / herramientas:** Rubberduck Studio, Promptly, Flowly
+- 🌐 **Proyectos con GitHub Pages:** 11
 - 🔧 **Proyectos Backend:** 3
+- ⭐ **Proyectos con estrellas:** 3 (Flowly, Promptly, Commercial Calendar TS)
 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-0000BB?style=for-the-badge&logo=h2&logoColor=white)
@@ -71,18 +72,20 @@
 <tr>
 <td width="50%">
 
-#### 🚦 [Flowly](https://yamicueto.github.io/Flowly/)
+#### 📊 [Flowly](https://yamicueto.github.io/Flowly/)
 
 ![Flowly](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Stars](https://img.shields.io/badge/⭐_1-yellow?style=for-the-badge)
 
-**Descripción:** Mapa interactivo de cámaras de fotodetección en Barranquilla, Colombia MVP
+**Descripción:** Herramienta web ligera para crear diagramas ER, UML, flowcharts y más. Construida con vanilla JS y Konva.js
 
 **Tecnologías:**
 
-- 🗺️ Mapas interactivos
-- ⚡ JavaScript optimizado
-- 📍 Geolocalización
+- 📊 Diagramas interactivos (ER, UML, Flowcharts)
+- ⚡ JavaScript + Konva.js
+- 💾 Exportación a SVG, PNG, JPG, PDF
+- 🎨 Editor visual intuitivo
 
 [📂 Ver Código](https://github.com/YamiCueto/Flowly) | [🌐 Demo en Vivo](https://yamicueto.github.io/Flowly/)
 
@@ -360,45 +363,3 @@
 - 🎓 Mentoría en desarrollo full stack y arquitectura
 - 💡 Charlas técnicas sobre Spring Boot, Angular, AI
 - 🚀 Proyectos innovadores con AI/ML
----
-
-## 📈 Estadísticas Actualizadas
-
-**Última actualización:** 03/11/2025 09:13 UTC
-
-**Repositorios públicos:** 10
-
-**Lenguajes más utilizados:**
-
-- **JavaScript:** 4 proyectos
-- **HTML:** 2 proyectos
-- **TypeScript:** 1 proyecto
-- **CSS:** 1 proyecto
----
-
-## 📈 Estadísticas Actualizadas
-
-**Última actualización:** 10/11/2025 09:13 UTC
-
-**Repositorios públicos:** 10
-
-**Lenguajes más utilizados:**
-
-- **JavaScript:** 4 proyectos
-- **HTML:** 2 proyectos
-- **TypeScript:** 1 proyecto
-- **CSS:** 1 proyecto
----
-
-## 📈 Estadísticas Actualizadas
-
-**Última actualización:** 17/11/2025 09:14 UTC
-
-**Repositorios públicos:** 10
-
-**Lenguajes más utilizados:**
-
-- **JavaScript:** 3 proyectos
-- **TypeScript:** 2 proyectos
-- **CSS:** 2 proyectos
-- **HTML:** 1 proyecto
