@@ -388,3 +388,17 @@
 - **HTML:** 2 proyectos
 - **TypeScript:** 1 proyecto
 - **CSS:** 1 proyecto
+---
+
+## 📈 Estadísticas Actualizadas
+
+**Última actualización:** 17/11/2025 09:14 UTC
+
+**Repositorios públicos:** 10
+
+**Lenguajes más utilizados:**
+
+- **JavaScript:** 3 proyectos
+- **TypeScript:** 2 proyectos
+- **CSS:** 2 proyectos
+- **HTML:** 1 proyecto

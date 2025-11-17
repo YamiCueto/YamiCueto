@@ -1,6 +1,33 @@
 {
-  "updated_at": "2025-11-10T09:13:01.525099",
+  "updated_at": "2025-11-17T09:14:30.390423",
   "repositories": [
+    {
+      "name": "commercial-calendar-ts",
+      "description": "Proyecto TypeScript para calcular d\u00edas trabajados usando calendario comercial 30/360 (cada mes tiene exactamente 30 d\u00edas).",
+      "language": "TypeScript",
+      "stars": 1,
+      "forks": 0,
+      "updated": "2025-11-15T17:36:18Z",
+      "url": "https://github.com/YamiCueto/commercial-calendar-ts"
+    },
+    {
+      "name": "yamicueto.github.io",
+      "description": "\ud83d\udcbb **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**     ",
+      "language": "CSS",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-11-14T15:19:46Z",
+      "url": "https://github.com/YamiCueto/yamicueto.github.io"
+    },
+    {
+      "name": "YamiCueto",
+      "description": "No description",
+      "language": "Unknown",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-11-10T09:13:05Z",
+      "url": "https://github.com/YamiCueto/YamiCueto"
+    },
     {
       "name": "Flowly",
       "description": "Flowly - Herramienta web ligera para crear diagramas ER, UML, flowcharts y m\u00e1s. Construida con vanilla JS y Konva.js. Exporta a SVG, PNG, JPG y PDF.",
@@ -11,15 +38,6 @@
       "url": "https://github.com/YamiCueto/Flowly"
     },
     {
-      "name": "YamiCueto",
-      "description": "No description",
-      "language": "Unknown",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-11-03T09:13:22Z",
-      "url": "https://github.com/YamiCueto/YamiCueto"
-    },
-    {
       "name": "fotomultaslab",
       "description": "\ud83d\udea6 Mapa interactivo de c\u00e1maras de fotodetecci\u00f3n en Barranquilla, Colombia MVP",
       "language": "JavaScript",
@@ -27,15 +45,6 @@
       "forks": 0,
       "updated": "2025-10-31T21:57:36Z",
       "url": "https://github.com/YamiCueto/fotomultaslab"
-    },
-    {
-      "name": "yamicueto.github.io",
-      "description": "\ud83d\udcbb **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**     ",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-10-31T21:33:52Z",
-      "url": "https://github.com/YamiCueto/yamicueto.github.io"
     },
     {
       "name": "cloud-cheatsheet",
@@ -81,15 +90,6 @@
       "forks": 0,
       "updated": "2025-10-06T21:48:31Z",
       "url": "https://github.com/YamiCueto/academy.ia"
-    },
-    {
-      "name": "rubberduck-studio",
-      "description": "Backend reflexivo para ayudar a desarrolladores a pensar y reflexionar sobre sus problemas de c\u00f3digo usando IA local (Ollama) o servicios cloud (OpenAI).",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-10-06T20:42:08Z",
-      "url": "https://github.com/YamiCueto/rubberduck-studio"
     }
   ]
 }
