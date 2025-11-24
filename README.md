@@ -24,13 +24,13 @@
 
 ## Estadísticas Actualizadas
 
-**Última actualización:** 17/11/2025 15:00 UTC
+**Última actualización:** 20/11/2025 13:45 UTC
 
-**Repositorios públicos:** 21
+**Repositorios públicos:** 18
 
 **Lenguajes más utilizados:**
 
-- **JavaScript:** 7 proyectos
+- **JavaScript:** 4 proyectos
 - **TypeScript:** 5 proyectos
 - **CSS:** 3 proyectos
 - **Java:** 2 proyectos
@@ -40,9 +40,9 @@
 **Proyectos destacados:**
 
 - 🤖 **Nuevos proyectos con IA / herramientas:** Rubberduck Studio, Promptly, Flowly
-- 🌐 **Proyectos con GitHub Pages:** 11
+- 🌐 **Proyectos con GitHub Pages:** 10
 - 🔧 **Proyectos Backend:** 3
-- ⭐ **Proyectos con estrellas:** 3 (Flowly, Promptly, Commercial Calendar TS)
+- ⭐ **Proyectos con estrellas:** 3 (Flowly: 1⭐, Promptly: 1⭐, Commercial Calendar TS: 1⭐)
 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-0000BB?style=for-the-badge&logo=h2&logoColor=white)
