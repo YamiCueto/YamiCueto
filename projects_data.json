@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-01T09:17:02.730823",
+  "updated_at": "2025-12-08T09:17:29.330394",
   "repositories": [
     {
       "name": "cloud-cheatsheet",
@@ -7,17 +7,17 @@
       "language": "TypeScript",
       "stars": 0,
       "forks": 0,
-      "updated": "2025-11-27T15:40:31Z",
+      "updated": "2025-12-05T20:37:16Z",
       "url": "https://github.com/YamiCueto/cloud-cheatsheet"
     },
     {
-      "name": "YamiCueto",
-      "description": "No description",
-      "language": "Unknown",
+      "name": "advent-js-challenges-solutions",
+      "description": "\ud83c\udf84 Mis soluciones a los retos de adventJS 2024 usando TypeScript.  Calendario de adviento con 24 desaf\u00edos de programaci\u00f3n del 1 al 24 de diciembre.  Cada reto incluye c\u00f3digo optimizado, tests y explicaciones detalladas.",
+      "language": "TypeScript",
       "stars": 0,
       "forks": 0,
-      "updated": "2025-11-24T13:36:35Z",
-      "url": "https://github.com/YamiCueto/YamiCueto"
+      "updated": "2025-12-01T22:30:10Z",
+      "url": "https://github.com/YamiCueto/advent-js-challenges-solutions"
     },
     {
       "name": "yamicueto.github.io",
@@ -25,8 +25,17 @@
       "language": "CSS",
       "stars": 0,
       "forks": 0,
-      "updated": "2025-11-20T13:52:52Z",
+      "updated": "2025-12-01T16:48:54Z",
       "url": "https://github.com/YamiCueto/yamicueto.github.io"
+    },
+    {
+      "name": "YamiCueto",
+      "description": "No description",
+      "language": "Unknown",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-12-01T09:17:06Z",
+      "url": "https://github.com/YamiCueto/YamiCueto"
     },
     {
       "name": "fotomultaslab",
@@ -81,15 +90,6 @@
       "forks": 0,
       "updated": "2025-10-06T21:48:31Z",
       "url": "https://github.com/YamiCueto/academy.ia"
-    },
-    {
-      "name": "rubberduck-studio",
-      "description": "Backend reflexivo para ayudar a desarrolladores a pensar y reflexionar sobre sus problemas de c\u00f3digo usando IA local (Ollama) o servicios cloud (OpenAI).",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-10-06T20:42:08Z",
-      "url": "https://github.com/YamiCueto/rubberduck-studio"
     }
   ]
 }
