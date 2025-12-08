@@ -1,6 +1,16 @@
 {
-  "updated_at": "2025-12-08T09:17:29.330394",
+  "updated_at": "2025-12-08T19:45:00Z",
+  "total_repositories": 22,
   "repositories": [
+    {
+      "name": "code-agent-arena",
+      "description": "🎯 Learn AI Agents the fun way! Interactive challenges, real projects, and gamified progression. No boring tutorials - just build, battle, and become an agent master.",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-12-08T19:39:01Z",
+      "url": "https://github.com/YamiCueto/code-agent-arena"
+    },
     {
       "name": "cloud-cheatsheet",
       "description": "Dashboard interactivo que sirve como cuaderno de aprendizaje visual de los principales servicios de AWS",

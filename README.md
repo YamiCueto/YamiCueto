@@ -24,25 +24,26 @@
 
 ## Estadísticas Actualizadas
 
-**Última actualización:** 20/11/2025 13:45 UTC
+**Última actualización:** 08/12/2025 19:45 UTC
 
-**Repositorios públicos:** 18
+**Repositorios públicos:** 22
 
 **Lenguajes más utilizados:**
 
-- **JavaScript:** 4 proyectos
-- **TypeScript:** 5 proyectos
+- **JavaScript:** 7 proyectos
+- **TypeScript:** 6 proyectos
+- **HTML:** 2 proyectos
 - **CSS:** 3 proyectos
 - **Java:** 2 proyectos
-- **HTML:** 1 proyecto
-- **Otros:** 3 proyectos
+- **Otros:** 2 proyectos
 
 **Proyectos destacados:**
 
-- 🤖 **Nuevos proyectos con IA / herramientas:** Rubberduck Studio, Promptly, Flowly
-- 🌐 **Proyectos con GitHub Pages:** 10
+- 🤖 **Nuevos proyectos con IA / herramientas:** Code Agent Arena, Rubberduck Studio, Promptly, Flowly
+- 🌐 **Proyectos con GitHub Pages:** 12
 - 🔧 **Proyectos Backend:** 3
 - ⭐ **Proyectos con estrellas:** 3 (Flowly: 1⭐, Promptly: 1⭐, Commercial Calendar TS: 1⭐)
+- 🎄 **Nuevo:** Advent JS Challenges 2024
 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-0000BB?style=for-the-badge&logo=h2&logoColor=white)
@@ -70,6 +71,26 @@
 
 <table>
 <tr>
+<td width="50%">
+
+#### 🎮 [Code Agent Arena](https://yamicueto.github.io/code-agent-arena/)
+
+![Code Agent Arena](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Learning-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+
+**Descripción:** Plataforma interactiva de aprendizaje sobre Agentes de IA. 7 módulos, 15+ juegos, 16 semanas de contenido gamificado
+
+**Tecnologías:**
+
+- 🎮 Aprendizaje gamificado e interactivo
+- 🤖 ReAct Framework, Chain-of-Thought, Tree of Thoughts
+- 🧠 Memory Systems, Tool Use, Multi-Agent
+- 📚 Roadmap completo de 16 semanas
+
+[📂 Ver Código](https://github.com/YamiCueto/code-agent-arena) | [🌐 Demo en Vivo](https://yamicueto.github.io/code-agent-arena/)
+
+</td>
 <td width="50%">
 
 #### 📊 [Flowly](https://yamicueto.github.io/Flowly/)
@@ -363,45 +384,3 @@
 - 🎓 Mentoría en desarrollo full stack y arquitectura
 - 💡 Charlas técnicas sobre Spring Boot, Angular, AI
 - 🚀 Proyectos innovadores con AI/ML
----
-
-## 📈 Estadísticas Actualizadas
-
-**Última actualización:** 24/11/2025 09:14 UTC
-
-**Repositorios públicos:** 10
-
-**Lenguajes más utilizados:**
-
-- **JavaScript:** 3 proyectos
-- **CSS:** 2 proyectos
-- **TypeScript:** 2 proyectos
-- **HTML:** 1 proyecto
----
-
-## 📈 Estadísticas Actualizadas
-
-**Última actualización:** 01/12/2025 09:17 UTC
-
-**Repositorios públicos:** 10
-
-**Lenguajes más utilizados:**
-
-- **JavaScript:** 4 proyectos
-- **TypeScript:** 2 proyectos
-- **CSS:** 1 proyecto
-- **HTML:** 1 proyecto
----
-
-## 📈 Estadísticas Actualizadas
-
-**Última actualización:** 08/12/2025 09:17 UTC
-
-**Repositorios públicos:** 10
-
-**Lenguajes más utilizados:**
-
-- **TypeScript:** 3 proyectos
-- **JavaScript:** 3 proyectos
-- **CSS:** 1 proyecto
-- **HTML:** 1 proyecto
