@@ -1,13 +1,13 @@
 {
-  "updated_at": "2025-12-29T09:19:13.391426",
+  "updated_at": "2026-01-05T09:21:04.077431",
   "repositories": [
     {
       "name": "jrxml-viewer-extension",
       "description": "Professional VS Code extension for viewing and editing JasperReports JRXML files with interactive visual preview. Features clickable elements, properties panel, export to HTML, zoom controls, and full support for bands, text fields, images, subreports, and charts.",
       "language": "TypeScript",
-      "stars": 1,
+      "stars": 2,
       "forks": 0,
-      "updated": "2025-12-29T06:45:28Z",
+      "updated": "2025-12-30T10:24:11Z",
       "url": "https://github.com/YamiCueto/jrxml-viewer-extension"
     },
     {
@@ -16,7 +16,7 @@
       "language": "Unknown",
       "stars": 0,
       "forks": 0,
-      "updated": "2025-12-22T09:17:37Z",
+      "updated": "2025-12-29T09:19:17Z",
       "url": "https://github.com/YamiCueto/YamiCueto"
     },
     {
