@@ -1,14 +1,49 @@
 {
-  "updated_at": "2025-12-08T19:45:00Z",
-  "total_repositories": 22,
+  "updated_at": "2026-01-12T09:21:07.880210",
   "repositories": [
     {
+      "name": "jrxml-viewer-extension",
+      "description": "Professional VS Code extension for viewing and editing JasperReports JRXML files with interactive visual preview. Features clickable elements, properties panel, export to HTML, zoom controls, and full support for bands, text fields, images, subreports, and charts.",
+      "language": "TypeScript",
+      "stars": 3,
+      "forks": 0,
+      "updated": "2026-01-09T11:35:02Z",
+      "url": "https://github.com/YamiCueto/jrxml-viewer-extension"
+    },
+    {
+      "name": "commercial-calendar-ts",
+      "description": "Proyecto TypeScript para calcular d\u00edas trabajados usando calendario comercial 30/360 (cada mes tiene exactamente 30 d\u00edas).",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-01-07T19:03:41Z",
+      "url": "https://github.com/YamiCueto/commercial-calendar-ts"
+    },
+    {
+      "name": "db-connector-extension",
+      "description": "Universal Database Connector - VS Code extension for seamless multi-database management. Connect to MySQL, PostgreSQL, SQL Server, MongoDB, and MariaDB. Browse schemas, execute queries, and manage databases from a unified interface.",
+      "language": "TypeScript",
+      "stars": 1,
+      "forks": 0,
+      "updated": "2026-01-06T18:45:35Z",
+      "url": "https://github.com/YamiCueto/db-connector-extension"
+    },
+    {
+      "name": "YamiCueto",
+      "description": "No description",
+      "language": "Unknown",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-01-05T09:21:08Z",
+      "url": "https://github.com/YamiCueto/YamiCueto"
+    },
+    {
       "name": "code-agent-arena",
-      "description": "🎯 Learn AI Agents the fun way! Interactive challenges, real projects, and gamified progression. No boring tutorials - just build, battle, and become an agent master.",
+      "description": "\ud83c\udfaf Learn AI Agents the fun way! Interactive challenges, real projects, and gamified progression. No boring tutorials - just build, battle, and become an agent master.",
       "language": "HTML",
       "stars": 0,
       "forks": 0,
-      "updated": "2025-12-08T19:39:01Z",
+      "updated": "2025-12-16T14:46:14Z",
       "url": "https://github.com/YamiCueto/code-agent-arena"
     },
     {
@@ -17,8 +52,17 @@
       "language": "TypeScript",
       "stars": 0,
       "forks": 0,
-      "updated": "2025-12-05T20:37:16Z",
+      "updated": "2025-12-14T22:45:43Z",
       "url": "https://github.com/YamiCueto/cloud-cheatsheet"
+    },
+    {
+      "name": "yamicueto.github.io",
+      "description": "\ud83d\udcbb **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**     ",
+      "language": "CSS",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2025-12-08T19:59:41Z",
+      "url": "https://github.com/YamiCueto/yamicueto.github.io"
     },
     {
       "name": "advent-js-challenges-solutions",
@@ -30,24 +74,6 @@
       "url": "https://github.com/YamiCueto/advent-js-challenges-solutions"
     },
     {
-      "name": "yamicueto.github.io",
-      "description": "\ud83d\udcbb **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**     ",
-      "language": "CSS",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-12-01T16:48:54Z",
-      "url": "https://github.com/YamiCueto/yamicueto.github.io"
-    },
-    {
-      "name": "YamiCueto",
-      "description": "No description",
-      "language": "Unknown",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-12-01T09:17:06Z",
-      "url": "https://github.com/YamiCueto/YamiCueto"
-    },
-    {
       "name": "fotomultaslab",
       "description": "\ud83d\udea6 Mapa interactivo de c\u00e1maras de fotodetecci\u00f3n en Barranquilla, Colombia MVP",
       "language": "JavaScript",
@@ -57,15 +83,6 @@
       "url": "https://github.com/YamiCueto/fotomultaslab"
     },
     {
-      "name": "commercial-calendar-ts",
-      "description": "Proyecto TypeScript para calcular d\u00edas trabajados usando calendario comercial 30/360 (cada mes tiene exactamente 30 d\u00edas).",
-      "language": "TypeScript",
-      "stars": 1,
-      "forks": 0,
-      "updated": "2025-11-17T17:12:48Z",
-      "url": "https://github.com/YamiCueto/commercial-calendar-ts"
-    },
-    {
       "name": "Flowly",
       "description": "Flowly - Herramienta web ligera para crear diagramas ER, UML, flowcharts y m\u00e1s. Construida con vanilla JS y Konva.js. Exporta a SVG, PNG, JPG y PDF.",
       "language": "JavaScript",
@@ -73,33 +90,6 @@
       "forks": 0,
       "updated": "2025-11-17T16:01:55Z",
       "url": "https://github.com/YamiCueto/Flowly"
-    },
-    {
-      "name": "promptly",
-      "description": "Promptly - Interfaz de chat moderna y atractiva para conectar con Ollama, OpenAI y cualquier API de LLM. UI inspirada en Claude, ChatGPT y Perplexity.",
-      "language": "JavaScript",
-      "stars": 1,
-      "forks": 0,
-      "updated": "2025-10-27T21:37:14Z",
-      "url": "https://github.com/YamiCueto/promptly"
-    },
-    {
-      "name": "learning-flex-box",
-      "description": "No description",
-      "language": "Unknown",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-10-25T15:34:26Z",
-      "url": "https://github.com/YamiCueto/learning-flex-box"
-    },
-    {
-      "name": "academy.ia",
-      "description": "repo para una spa usando simplemente js, html y css",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-10-06T21:48:31Z",
-      "url": "https://github.com/YamiCueto/academy.ia"
     }
   ]
 }

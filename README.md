@@ -477,3 +477,73 @@
 - 🎓 Mentoría en desarrollo full stack y arquitectura
 - 💡 Charlas técnicas sobre Spring Boot, Angular, AI
 - 🚀 Proyectos innovadores con AI/ML
+---
+
+## 📈 Estadísticas Actualizadas
+
+**Última actualización:** 15/12/2025 09:20 UTC
+
+**Repositorios públicos:** 10
+
+**Lenguajes más utilizados:**
+
+- **TypeScript:** 3 proyectos
+- **JavaScript:** 3 proyectos
+- **HTML:** 1 proyecto
+- **CSS:** 1 proyecto
+---
+
+## 📈 Estadísticas Actualizadas
+
+**Última actualización:** 22/12/2025 09:17 UTC
+
+**Repositorios públicos:** 10
+
+**Lenguajes más utilizados:**
+
+- **TypeScript:** 4 proyectos
+- **JavaScript:** 3 proyectos
+- **HTML:** 1 proyecto
+- **CSS:** 1 proyecto
+---
+
+## 📈 Estadísticas Actualizadas
+
+**Última actualización:** 29/12/2025 09:19 UTC
+
+**Repositorios públicos:** 10
+
+**Lenguajes más utilizados:**
+
+- **TypeScript:** 4 proyectos
+- **JavaScript:** 3 proyectos
+- **HTML:** 1 proyecto
+- **CSS:** 1 proyecto
+---
+
+## 📈 Estadísticas Actualizadas
+
+**Última actualización:** 05/01/2026 09:21 UTC
+
+**Repositorios públicos:** 10
+
+**Lenguajes más utilizados:**
+
+- **TypeScript:** 4 proyectos
+- **JavaScript:** 3 proyectos
+- **HTML:** 1 proyecto
+- **CSS:** 1 proyecto
+---
+
+## 📈 Estadísticas Actualizadas
+
+**Última actualización:** 12/01/2026 09:21 UTC
+
+**Repositorios públicos:** 10
+
+**Lenguajes más utilizados:**
+
+- **TypeScript:** 5 proyectos
+- **JavaScript:** 2 proyectos
+- **HTML:** 1 proyecto
+- **CSS:** 1 proyecto
