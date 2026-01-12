@@ -24,26 +24,26 @@
 
 ## Estadísticas Actualizadas
 
-**Última actualización:** 08/12/2025 19:45 UTC
+**Última actualización:** 12/01/2026 10:04 UTC
 
-**Repositorios públicos:** 22
+**Repositorios públicos:** 21
 
 **Lenguajes más utilizados:**
 
-- **JavaScript:** 7 proyectos
-- **TypeScript:** 6 proyectos
+- **TypeScript:** 9 proyectos
+- **JavaScript:** 5 proyectos
 - **HTML:** 2 proyectos
 - **CSS:** 3 proyectos
 - **Java:** 2 proyectos
-- **Otros:** 2 proyectos
 
 **Proyectos destacados:**
 
-- 🤖 **Nuevos proyectos con IA / herramientas:** Code Agent Arena, Rubberduck Studio, Promptly, Flowly
-- 🌐 **Proyectos con GitHub Pages:** 12
+- 🔌 **Extensiones VS Code:** 2 (jrxml-viewer-extension: 3⭐, db-connector-extension: 1⭐)
+- 🤖 **Proyectos con IA:** Code Agent Arena, Rubberduck Studio, Promptly, Academy.IA, E-commerce with IA
+- 🌐 **Proyectos con GitHub Pages:** 10
 - 🔧 **Proyectos Backend:** 3
-- ⭐ **Proyectos con estrellas:** 3 (Flowly: 1⭐, Promptly: 1⭐, Commercial Calendar TS: 1⭐)
-- 🎄 **Nuevo:** Advent JS Challenges 2024
+- ⭐ **Proyectos con estrellas:** 5 (Total: 7⭐)
+- 🎄 **Challenges:** Advent JS 2024
 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-0000BB?style=for-the-badge&logo=h2&logoColor=white)
@@ -66,6 +66,53 @@
 ---
 
 ## 🌟 Proyectos Destacados
+
+### 🔌 Extensiones VS Code
+
+<table>
+<tr>
+<td width="50%">
+
+#### 📊 [JRXML Viewer Extension](https://github.com/YamiCueto/jrxml-viewer-extension)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Stars](https://img.shields.io/badge/⭐_3-yellow?style=for-the-badge)
+
+**Descripción:** Extensión profesional de VS Code para visualizar y editar archivos JasperReports (JRXML) con previsualizaciones visuales interactivas
+
+**Características:**
+
+- 👁️ Vista previa visual interactiva
+- 🖱️ Elementos clickeables
+- 📋 Panel de propiedades
+- 📤 Exportación a HTML
+
+[📂 Ver Código](https://github.com/YamiCueto/jrxml-viewer-extension)
+
+</td>
+<td width="50%">
+
+#### 🗄️ [DB Connector Extension](https://github.com/YamiCueto/db-connector-extension)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Stars](https://img.shields.io/badge/⭐_1-yellow?style=for-the-badge)
+
+**Descripción:** Conector universal de bases de datos para VS Code. Soporta MySQL, PostgreSQL, SQL Server, MongoDB y MariaDB
+
+**Características:**
+
+- 🔌 Conexión a múltiples bases de datos
+- 🗃️ MySQL, PostgreSQL, SQL Server, MongoDB, MariaDB
+- ⚡ Gestión de conexiones desde VS Code
+- 🔐 Manejo seguro de credenciales
+
+[📂 Ver Código](https://github.com/YamiCueto/db-connector-extension)
+
+</td>
+</tr>
+</table>
 
 ### 🚀 Aplicaciones en Vivo (GitHub Pages)
 
@@ -257,6 +304,52 @@
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 📚 [Advent JS Challenges 2024](https://github.com/YamiCueto/advent-js-challenges-solutions)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Challenges](https://img.shields.io/badge/Challenges-FF6B6B?style=for-the-badge&logo=code&logoColor=white)
+
+**Descripción:** Soluciones a los desafíos de programación de adventJS 2024
+
+**Tecnologías:**
+
+- 🎄 Desafíos de Navidad 2024
+- 💻 TypeScript
+- 🧩 Algoritmos y lógica
+- 📖 Documentación de soluciones
+
+[📂 Ver Código](https://github.com/YamiCueto/advent-js-challenges-solutions)
+
+</td>
+<td width="50%">
+
+#### 📅 [Commercial Calendar TS](https://github.com/YamiCueto/commercial-calendar-ts)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Stars](https://img.shields.io/badge/⭐_1-yellow?style=for-the-badge)
+
+**Descripción:** Librería TypeScript para calcular días trabajados usando el calendario comercial 30/360
+
+**Tecnologías:**
+
+- 📅 Calendario comercial 30/360
+- 💼 Cálculos financieros
+- 📦 Librería NPM
+- ⚡ TypeScript
+
+[📂 Ver Código](https://github.com/YamiCueto/commercial-calendar-ts)
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 🔧 Proyectos Backend & Full Stack
 
