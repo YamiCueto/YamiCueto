@@ -1,549 +1,74 @@
-# Conectemos
+# 👋 Hola, soy Yamid Cueto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamid-cueto-mazo/)
-[![Twitter](https://img.shields.io/badge/Twitter-Sígueme-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YamiDev)
-[![Instagram](https://img.shields.io/badge/Instagram-Sigueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yamiddev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visita-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yamicueto.github.io/)
+**Full Stack Developer** especializado en **Java/Spring Boot**, **Angular/TypeScript** e **Inteligencia Artificial**
 
----
+💼 Actualmente en **Tata Consultancy Services**  
+🌱 Explorando **AI Integration**, **Prompt Engineering** y **Microservices**  
+🌐 Portfolio: [yamicueto.github.io](https://yamicueto.github.io/)
 
-💼 **Trabajando actualmente en:** Tata Consultancy Services  
-🌱 **Aprendiendo:** AI Integration, Prompt Engineering, Microservices Architecture  
-💡 **Interesado en:** Colaboraciones en proyectos innovadores con IA  
-🌐 **Portfolio Web:** [yamicueto.github.io](https://yamicueto.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamid-cueto-mazo/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/YamiDev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://yamicueto.github.io/)
 
 ---
 
-"La tecnología al servicio de soluciones reales" ✨
+## 🚀 Stack Principal
 
----
-
-## ⭐ Si te gustan mis proyectos, déjame una estrella! ⭐
-
----
-
-## Estadísticas Actualizadas
-
-**Última actualización:** 12/01/2026 10:04 UTC
-
-**Repositorios públicos:** 21
-
-**Lenguajes más utilizados:**
-
-- **TypeScript:** 9 proyectos
-- **JavaScript:** 5 proyectos
-- **HTML:** 2 proyectos
-- **CSS:** 3 proyectos
-- **Java:** 2 proyectos
-
-**Proyectos destacados:**
-
-- 🔌 **Extensiones VS Code:** 2 (jrxml-viewer-extension: 3⭐, db-connector-extension: 1⭐)
-- 🤖 **Proyectos con IA:** Code Agent Arena, Rubberduck Studio, Promptly, Academy.IA, E-commerce with IA
-- 🌐 **Proyectos con GitHub Pages:** 10
-- 🔧 **Proyectos Backend:** 3
-- ⭐ **Proyectos con estrellas:** 5 (Total: 7⭐)
-- 🎄 **Challenges:** Advent JS 2024
-
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![H2](https://img.shields.io/badge/H2-0000BB?style=for-the-badge&logo=h2&logoColor=white)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-
-### AI & Machine Learning
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-181818?style=for-the-badge&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![AI](https://img.shields.io/badge/Local_LLMs-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+**Backend:** Java 17+, Spring Boot, Spring WebFlux, Node.js  
+**Frontend:** Angular, TypeScript, JavaScript, HTML/CSS  
+**Databases:** MySQL, PostgreSQL, SQL Server, MongoDB, H2  
+**Cloud & DevOps:** AWS, Docker, Git, Jenkins, Maven  
+**AI/ML:** OpenAI API, Claude, Ollama, Local LLMs
 
 ---
 
 ## 🌟 Proyectos Destacados
 
 ### 🔌 Extensiones VS Code
-
-<table>
-<tr>
-<td width="50%">
-
-#### 📊 [JRXML Viewer Extension](https://github.com/YamiCueto/jrxml-viewer-extension)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Stars](https://img.shields.io/badge/⭐_3-yellow?style=for-the-badge)
-
-**Descripción:** Extensión profesional de VS Code para visualizar y editar archivos JasperReports (JRXML) con previsualizaciones visuales interactivas
-
-**Características:**
-
-- 👁️ Vista previa visual interactiva
-- 🖱️ Elementos clickeables
-- 📋 Panel de propiedades
-- 📤 Exportación a HTML
-
-[📂 Ver Código](https://github.com/YamiCueto/jrxml-viewer-extension)
-
-</td>
-<td width="50%">
-
-#### 🗄️ [DB Connector Extension](https://github.com/YamiCueto/db-connector-extension)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Stars](https://img.shields.io/badge/⭐_1-yellow?style=for-the-badge)
-
-**Descripción:** Conector universal de bases de datos para VS Code. Soporta MySQL, PostgreSQL, SQL Server, MongoDB y MariaDB
-
-**Características:**
-
-- 🔌 Conexión a múltiples bases de datos
-- 🗃️ MySQL, PostgreSQL, SQL Server, MongoDB, MariaDB
-- ⚡ Gestión de conexiones desde VS Code
-- 🔐 Manejo seguro de credenciales
-
-[📂 Ver Código](https://github.com/YamiCueto/db-connector-extension)
-
-</td>
-</tr>
-</table>
-
-### 🚀 Aplicaciones en Vivo (GitHub Pages)
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🎮 [Code Agent Arena](https://yamicueto.github.io/code-agent-arena/)
-
-![Code Agent Arena](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Learning-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-
-**Descripción:** Plataforma interactiva de aprendizaje sobre Agentes de IA. 7 módulos, 15+ juegos, 16 semanas de contenido gamificado
-
-**Tecnologías:**
-
-- 🎮 Aprendizaje gamificado e interactivo
-- 🤖 ReAct Framework, Chain-of-Thought, Tree of Thoughts
-- 🧠 Memory Systems, Tool Use, Multi-Agent
-- 📚 Roadmap completo de 16 semanas
-
-[📂 Ver Código](https://github.com/YamiCueto/code-agent-arena) | [🌐 Demo en Vivo](https://yamicueto.github.io/code-agent-arena/)
-
-</td>
-<td width="50%">
-
-#### 📊 [Flowly](https://yamicueto.github.io/Flowly/)
-
-![Flowly](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Stars](https://img.shields.io/badge/⭐_1-yellow?style=for-the-badge)
-
-**Descripción:** Herramienta web ligera para crear diagramas ER, UML, flowcharts y más. Construida con vanilla JS y Konva.js
-
-**Tecnologías:**
-
-- 📊 Diagramas interactivos (ER, UML, Flowcharts)
-- ⚡ JavaScript + Konva.js
-- 💾 Exportación a SVG, PNG, JPG, PDF
-- 🎨 Editor visual intuitivo
-
-[📂 Ver Código](https://github.com/YamiCueto/Flowly) | [🌐 Demo en Vivo](https://yamicueto.github.io/Flowly/)
-
-</td>
-<td width="50%">
-
-#### 🚦 [FotomultasLab](https://yamicueto.github.io/fotomultaslab/)
-
-![FotomultasLab](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Descripción:** Mapa interactivo de cámaras de fotodetección en Barranquilla, Colombia MVP
-
-**Tecnologías:**
-
-- 🗺️ Mapas interactivos
-- ⚡ JavaScript optimizado
-- 📍 Geolocalización
-
-[📂 Ver Código](https://github.com/YamiCueto/fotomultaslab) | [🌐 Demo en Vivo](https://yamicueto.github.io/fotomultaslab/)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🤖 [Promptly](https://yamicueto.github.io/promptly/)
-
-![Promptly](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-![Chat](https://img.shields.io/badge/Chat_Interface-4CAF50?style=for-the-badge&logo=chat&logoColor=white)
-
-**Descripción:** Interfaz de chat moderna y atractiva para conectar con Ollama, OpenAI, Claude y cualquier API de LLM. UI inspirada en Claude, ChatGPT y Perplexity
-
-**Tecnologías:**
-
-- 🤖 Conexión con múltiples APIs de LLM
-- 💬 Interfaz chat moderna y responsive
-- ⚡ JavaScript vanilla optimizado
-- 🎨 UI/UX inspirada en las mejores plataformas AI
-
-[📂 Ver Código](https://github.com/YamiCueto/promptly) | [🌐 Demo en Vivo](https://yamicueto.github.io/promptly/)
-
-</td>
-<td width="50%">
-
-#### 📝 [Todo List App](https://yamicueto.github.io/todo-list-app/)
-
-![Todo App](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-**Descripción:** Aplicación de gestión de tareas moderna y responsiva con Angular Material
-
-**Tecnologías:**
-
-- ⚡ Angular 18
-- 🎨 Angular Material Design
-- 📱 TypeScript + RxJS
-- 🎯 100% Responsive
-
-[📂 Ver Código](https://github.com/YamiCueto/todo-list-app) | [🌐 Demo en Vivo](https://yamicueto.github.io/todo-list-app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🎓 [Academy.IA](https://yamicueto.github.io/academy.ia/)
-
-![Academy](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-![Education](https://img.shields.io/badge/Education-4CAF50?style=for-the-badge&logo=google-scholar&logoColor=white)
-
-**Descripción:** Plataforma educativa potenciada con inteligencia artificial
-
-**Tecnologías:**
-
-- 🎓 Sistema de aprendizaje adaptativo con IA
-- 🤖 Asistente educativo inteligente
-- ⚡ TypeScript + AI APIs
-- 📚 Experiencia personalizada por usuario
-
-[📂 Ver Código](https://github.com/YamiCueto/academy.ia) | [🌐 Demo en Vivo](https://yamicueto.github.io/academy.ia/)
-
-</td>
-<td width="50%">
-
-#### 🛍️ [E-commerce with IA](https://yamicueto.github.io/e-commerce-with-ia/)
-
-![AI Commerce](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-
-**Descripción:** Plataforma de e-commerce integrada con inteligencia artificial
-
-**Tecnologías:**
-
-- 🛍️ Sistema de e-commerce completo
-- 🤖 Recomendaciones personalizadas con IA
-- ⚡ TypeScript + OpenAI API
-- 🎯 UX optimizada con machine learning
-
-[📂 Ver Código](https://github.com/YamiCueto/e-commerce-with-ia) | [🌐 Demo en Vivo](https://yamicueto.github.io/e-commerce-with-ia/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🍽️ [Recetario App](https://yamicueto.github.io/recetario-app/)
-
-![Recetario](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-**Descripción:** Aplicación para gestión de recetas culinarias
-
-**Tecnologías:**
-
-- ⚡ Angular 18
-- 🎨 CSS3 moderno
-- 📱 TypeScript
-- 🔧 Angular CLI 18
-
-[📂 Ver Código](https://github.com/YamiCueto/recetario-app) | [🌐 Demo en Vivo](https://yamicueto.github.io/recetario-app/)
-
-</td>
-<td width="50%">
-
-#### ☁️ [Cloud Cheatsheet](https://yamicueto.github.io/cloud-cheatsheet/)
-
-![Cloud](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
-
-**Descripción:** Guía de referencia rápida para comandos y servicios cloud
-
-**Tecnologías:**
-
-- ☁️ AWS, Azure, GCP
-- 📚 Documentación interactiva
-- 🔧 Comandos CLI y mejores prácticas
-- 🎯 Búsqueda rápida optimizada
-
-[📂 Ver Código](https://github.com/YamiCueto/cloud-cheatsheet) | [🌐 Demo en Vivo](https://yamicueto.github.io/cloud-cheatsheet/)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-#### 📚 [Advent JS Challenges 2024](https://github.com/YamiCueto/advent-js-challenges-solutions)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Challenges](https://img.shields.io/badge/Challenges-FF6B6B?style=for-the-badge&logo=code&logoColor=white)
-
-**Descripción:** Soluciones a los desafíos de programación de adventJS 2024
-
-**Tecnologías:**
-
-- 🎄 Desafíos de Navidad 2024
-- 💻 TypeScript
-- 🧩 Algoritmos y lógica
-- 📖 Documentación de soluciones
-
-[📂 Ver Código](https://github.com/YamiCueto/advent-js-challenges-solutions)
-
-</td>
-<td width="50%">
-
-#### 📅 [Commercial Calendar TS](https://github.com/YamiCueto/commercial-calendar-ts)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Stars](https://img.shields.io/badge/⭐_1-yellow?style=for-the-badge)
-
-**Descripción:** Librería TypeScript para calcular días trabajados usando el calendario comercial 30/360
-
-**Tecnologías:**
-
-- 📅 Calendario comercial 30/360
-- 💼 Cálculos financieros
-- 📦 Librería NPM
-- ⚡ TypeScript
-
-[📂 Ver Código](https://github.com/YamiCueto/commercial-calendar-ts)
-
-</td>
-</tr>
-</table>
+- **[JRXML Viewer Extension](https://github.com/YamiCueto/jrxml-viewer-extension)** ⭐3 - Visualizador interactivo de JasperReports
+- **[DB Connector Extension](https://github.com/YamiCueto/db-connector-extension)** ⭐1 - Conector universal de bases de datos
+
+### 🤖 Proyectos con IA
+- **[Code Agent Arena](https://yamicueto.github.io/code-agent-arena/)** - Plataforma de aprendizaje sobre Agentes de IA (7 módulos, 15+ juegos)
+- **[Promptly](https://yamicueto.github.io/promptly/)** - Interfaz chat moderna para LLMs (Ollama, OpenAI, Claude)
+- **[Rubberduck Studio](https://github.com/YamiCueto/rubberduck-studio)** - Backend reflexivo con IA para desarrolladores
+
+### 🌐 Aplicaciones Web
+- **[Flowly](https://yamicueto.github.io/Flowly/)** ⭐1 - Herramienta para crear diagramas ER, UML y flowcharts
+- **[Academy.IA](https://yamicueto.github.io/academy.ia/)** - Plataforma educativa con IA
+- **[E-commerce with IA](https://yamicueto.github.io/e-commerce-with-ia/)** - E-commerce con recomendaciones inteligentes
+
+### ⚙️ Backend & APIs
+- **[API Users](https://github.com/YamiCueto/api-users)** - API REST con Spring Boot y H2
+- **[WebFlux Project](https://github.com/YamiCueto/webflux-project)** - Proyecto reactivo con Spring WebFlux
+
+[Ver todos los proyectos →](https://yamicueto.github.io/)
 
 ---
 
-### 🔧 Proyectos Backend & Full Stack
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🦆 Rubberduck Studio
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-
-**Descripción:** Backend reflexivo para ayudar a desarrolladores a pensar y reflexionar sobre sus problemas de código usando IA local (Ollama) o servicios cloud (OpenAI)
-
-**Características:**
-
-- 🤖 Integración con IA local y cloud
-- 🧠 Sistema de reflexión inteligente
-- 🔄 API RESTful moderna
-- ⚡ Node.js + Express
-
-[📂 Ver Código](https://github.com/YamiCueto/rubberduck-studio)
-
-</td>
-<td width="50%">
-
-#### 🎨 Rubberduck Studio Frontend
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Descripción:** Interfaz Angular que permite escribir prompts, seleccionar modo reflexivo y mostrar la respuesta del "Duck" conectándose al backend Node.js
-
-**Características:**
-
-- 🎨 Interfaz Angular moderna
-- 🔗 Conexión seamless con backend
-- 💭 Editor de prompts inteligente
-- 🎯 Modo reflexivo interactivo
-
-[📂 Ver Código](https://github.com/YamiCueto/rubberduck-studio-frontend)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 👥 API Users
-
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-**Descripción:** API RESTful para gestión de usuarios con base de datos en memoria
-
-**Características:**
-
-- ☕ Java 17
-- 🚀 Spring Boot 3.x
-- 💾 Base de datos H2
-- 🔐 Arquitectura REST completa
-
-[📂 Ver Código](https://github.com/YamiCueto/api-users)
-
-</td>
-<td width="50%">
-
-#### ⚡ WebFlux Project
-
-![Spring](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Reactive](https://img.shields.io/badge/Reactive-FF6B6B?style=for-the-badge&logo=reactivex&logoColor=white)
-
-**Descripción:** Proyecto reactivo usando Spring WebFlux
-
-**Características:**
-
-- ☕ Java 17+
-- ⚡ Spring WebFlux
-- 🔄 Programación Reactiva
-- 🚀 Alta Performance y escalabilidad
-
-[📂 Ver Código](https://github.com/YamiCueto/webflux-project)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YamiCueto&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YamiCueto&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YamiCueto&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
----
-
-## 📈 Actividad de GitHub
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YamiCueto&theme=react-dark&hide_border=true&area=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YamiCueto&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
 ---
 
 ## 🎯 Objetivos 2025
 
-- 🚀 Lanzar **5+ aplicaciones AI-powered** en producción
-- 📱 Crear aplicaciones móviles con **Ionic** y **React Native**
-- ☁️ Certificarme como **AWS Solutions Architect Professional**
-- 🤝 Contribuir a **10+ proyectos open source** de alto impacto
-- 📚 Publicar **blog técnico** sobre arquitectura y AI
-- 🎓 Mentoría activa en comunidades de desarrollo
-- 🏗️ Construir plataforma SaaS con **microservicios** y **event-driven architecture**
+- 🚀 Lanzar aplicaciones AI-powered en producción
+- ☁️ Certificación AWS Solutions Architect Professional
+- 🤝 Contribuir a proyectos open source de alto impacto
+- 🏗️ Construir plataforma SaaS con microservicios
 
 ---
 
-## 💬 ¿Hablamos?
+## 💬 Contacto
 
-¿Tienes un proyecto interesante? ¿Necesitas colaboración? ¿Café virtual? ☕
+¿Proyecto interesante? ¿Colaboración? ¿Café virtual? ☕
 
-**Estoy abierto a:**
+Abierto a: **Colaboraciones open source** • **Consultoría** • **Mentoría** • **Charlas técnicas**
 
-- 🤝 Colaboraciones en proyectos open source
-- 💼 Oportunidades de consultoría y freelance
-- 🎓 Mentoría en desarrollo full stack y arquitectura
-- 💡 Charlas técnicas sobre Spring Boot, Angular, AI
-- 🚀 Proyectos innovadores con AI/ML
 ---
 
-## 📈 Estadísticas Actualizadas
-
-**Última actualización:** 15/12/2025 09:20 UTC
-
-**Repositorios públicos:** 10
-
-**Lenguajes más utilizados:**
-
-- **TypeScript:** 3 proyectos
-- **JavaScript:** 3 proyectos
-- **HTML:** 1 proyecto
-- **CSS:** 1 proyecto
----
-
-## 📈 Estadísticas Actualizadas
-
-**Última actualización:** 22/12/2025 09:17 UTC
-
-**Repositorios públicos:** 10
-
-**Lenguajes más utilizados:**
-
-- **TypeScript:** 4 proyectos
-- **JavaScript:** 3 proyectos
-- **HTML:** 1 proyecto
-- **CSS:** 1 proyecto
----
-
-## 📈 Estadísticas Actualizadas
-
-**Última actualización:** 29/12/2025 09:19 UTC
-
-**Repositorios públicos:** 10
-
-**Lenguajes más utilizados:**
-
-- **TypeScript:** 4 proyectos
-- **JavaScript:** 3 proyectos
-- **HTML:** 1 proyecto
-- **CSS:** 1 proyecto
----
-
-## 📈 Estadísticas Actualizadas
-
-**Última actualización:** 05/01/2026 09:21 UTC
-
-**Repositorios públicos:** 10
-
-**Lenguajes más utilizados:**
-
-- **TypeScript:** 4 proyectos
-- **JavaScript:** 3 proyectos
-- **HTML:** 1 proyecto
-- **CSS:** 1 proyecto
----
-
-## 📈 Estadísticas Actualizadas
-
-**Última actualización:** 12/01/2026 09:21 UTC
-
-**Repositorios públicos:** 10
-
-**Lenguajes más utilizados:**
-
-- **TypeScript:** 5 proyectos
-- **JavaScript:** 2 proyectos
-- **HTML:** 1 proyecto
-- **CSS:** 1 proyecto
+⭐ **Si te gustan mis proyectos, déjame una estrella!** ⭐
