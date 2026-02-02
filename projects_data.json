@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-26T09:23:14.081612",
+  "updated_at": "2026-02-02T09:34:28.237540",
   "repositories": [
     {
       "name": "YamiCueto",
@@ -7,8 +7,26 @@
       "language": "Unknown",
       "stars": 0,
       "forks": 0,
-      "updated": "2026-01-19T09:23:07Z",
+      "updated": "2026-01-28T20:35:42Z",
       "url": "https://github.com/YamiCueto/YamiCueto"
+    },
+    {
+      "name": "yamicueto.github.io",
+      "description": "\ud83d\udcbb **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**     ",
+      "language": "CSS",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-01-28T20:27:51Z",
+      "url": "https://github.com/YamiCueto/yamicueto.github.io"
+    },
+    {
+      "name": "jrxml-viewer-extension",
+      "description": "Professional VS Code extension for viewing and editing JasperReports JRXML files with interactive visual preview. Features clickable elements, properties panel, export to HTML, zoom controls, and full support for bands, text fields, images, subreports, and charts.",
+      "language": "TypeScript",
+      "stars": 4,
+      "forks": 1,
+      "updated": "2026-01-27T21:55:16Z",
+      "url": "https://github.com/YamiCueto/jrxml-viewer-extension"
     },
     {
       "name": "db-connector-extension",
@@ -18,24 +36,6 @@
       "forks": 0,
       "updated": "2026-01-18T19:59:13Z",
       "url": "https://github.com/YamiCueto/db-connector-extension"
-    },
-    {
-      "name": "jrxml-viewer-extension",
-      "description": "Professional VS Code extension for viewing and editing JasperReports JRXML files with interactive visual preview. Features clickable elements, properties panel, export to HTML, zoom controls, and full support for bands, text fields, images, subreports, and charts.",
-      "language": "TypeScript",
-      "stars": 3,
-      "forks": 1,
-      "updated": "2026-01-18T18:18:35Z",
-      "url": "https://github.com/YamiCueto/jrxml-viewer-extension"
-    },
-    {
-      "name": "yamicueto.github.io",
-      "description": "\ud83d\udcbb **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**     ",
-      "language": "CSS",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2026-01-13T17:05:53Z",
-      "url": "https://github.com/YamiCueto/yamicueto.github.io"
     },
     {
       "name": "commercial-calendar-ts",
