@@ -1,13 +1,40 @@
 {
-  "updated_at": "2026-03-16T09:18:25.941063",
+  "updated_at": "2026-03-23T09:17:23.205747",
   "repositories": [
+    {
+      "name": "dev-agente-local-ui",
+      "description": "No description",
+      "language": "CSS",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-03-23T00:16:48Z",
+      "url": "https://github.com/YamiCueto/dev-agente-local-ui"
+    },
+    {
+      "name": "dev-agent-local",
+      "description": "No description",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-03-23T00:03:45Z",
+      "url": "https://github.com/YamiCueto/dev-agent-local"
+    },
+    {
+      "name": "learn-react",
+      "description": "a simply way to learn all about react framework ",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-03-22T23:23:05Z",
+      "url": "https://github.com/YamiCueto/learn-react"
+    },
     {
       "name": "YamiCueto",
       "description": "No description",
       "language": "Unknown",
       "stars": 0,
       "forks": 0,
-      "updated": "2026-03-09T09:35:58Z",
+      "updated": "2026-03-16T09:18:30Z",
       "url": "https://github.com/YamiCueto/YamiCueto"
     },
     {
@@ -63,33 +90,6 @@
       "forks": 0,
       "updated": "2026-01-18T19:59:13Z",
       "url": "https://github.com/YamiCueto/db-connector-extension"
-    },
-    {
-      "name": "commercial-calendar-ts",
-      "description": "Proyecto TypeScript para calcular d\u00edas trabajados usando calendario comercial 30/360 (cada mes tiene exactamente 30 d\u00edas).",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2026-01-07T19:03:41Z",
-      "url": "https://github.com/YamiCueto/commercial-calendar-ts"
-    },
-    {
-      "name": "advent-js-challenges-solutions",
-      "description": "\ud83c\udf84 Mis soluciones a los retos de adventJS 2024 usando TypeScript.  Calendario de adviento con 24 desaf\u00edos de programaci\u00f3n del 1 al 24 de diciembre.  Cada reto incluye c\u00f3digo optimizado, tests y explicaciones detalladas.",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-12-01T22:30:10Z",
-      "url": "https://github.com/YamiCueto/advent-js-challenges-solutions"
-    },
-    {
-      "name": "fotomultaslab",
-      "description": "\ud83d\udea6 Mapa interactivo de c\u00e1maras de fotodetecci\u00f3n en Barranquilla, Colombia MVP",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2025-11-17T17:44:17Z",
-      "url": "https://github.com/YamiCueto/fotomultaslab"
     }
   ]
 }

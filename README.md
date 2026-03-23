@@ -59,3 +59,18 @@ Abierto a: **Colaboraciones open source** • **Consultoría** • **Mentoría**
 - **JavaScript:** 2 proyectos
 - **CSS:** 1 proyecto
 - **HTML:** 1 proyecto
+---
+
+## 📈 Estadísticas Actualizadas
+
+**Última actualización:** 23/03/2026 09:17 UTC
+
+**Repositorios públicos:** 10
+
+**Lenguajes más utilizados:**
+
+- **TypeScript:** 3 proyectos
+- **CSS:** 2 proyectos
+- **JavaScript:** 2 proyectos
+- **Python:** 1 proyecto
+- **HTML:** 1 proyecto
