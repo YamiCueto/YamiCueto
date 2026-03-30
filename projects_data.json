@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-03-23T09:17:23.205747",
+  "updated_at": "2026-03-30T09:26:13.143118",
   "repositories": [
+    {
+      "name": "jrxml-viewer-extension",
+      "description": "Professional VS Code extension for viewing and editing JasperReports JRXML files with interactive visual preview. Features clickable elements, properties panel, export to HTML, zoom controls, and full support for bands, text fields, images, subreports, and charts.",
+      "language": "TypeScript",
+      "stars": 5,
+      "forks": 1,
+      "updated": "2026-03-26T00:44:05Z",
+      "url": "https://github.com/YamiCueto/jrxml-viewer-extension"
+    },
+    {
+      "name": "YamiCueto",
+      "description": "No description",
+      "language": "Unknown",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-03-23T09:17:27Z",
+      "url": "https://github.com/YamiCueto/YamiCueto"
+    },
     {
       "name": "dev-agente-local-ui",
       "description": "No description",
@@ -27,15 +45,6 @@
       "forks": 0,
       "updated": "2026-03-22T23:23:05Z",
       "url": "https://github.com/YamiCueto/learn-react"
-    },
-    {
-      "name": "YamiCueto",
-      "description": "No description",
-      "language": "Unknown",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2026-03-16T09:18:30Z",
-      "url": "https://github.com/YamiCueto/YamiCueto"
     },
     {
       "name": "cloud-cheatsheet",
@@ -72,15 +81,6 @@
       "forks": 0,
       "updated": "2026-02-02T16:33:59Z",
       "url": "https://github.com/YamiCueto/code-agent-arena"
-    },
-    {
-      "name": "jrxml-viewer-extension",
-      "description": "Professional VS Code extension for viewing and editing JasperReports JRXML files with interactive visual preview. Features clickable elements, properties panel, export to HTML, zoom controls, and full support for bands, text fields, images, subreports, and charts.",
-      "language": "TypeScript",
-      "stars": 4,
-      "forks": 1,
-      "updated": "2026-01-27T21:55:16Z",
-      "url": "https://github.com/YamiCueto/jrxml-viewer-extension"
     },
     {
       "name": "db-connector-extension",
