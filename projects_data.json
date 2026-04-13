@@ -1,13 +1,22 @@
 {
-  "updated_at": "2026-04-06T09:23:57.608659",
+  "updated_at": "2026-04-13T10:24:34.107029",
   "repositories": [
+    {
+      "name": "solving_problems_hackerank",
+      "description": "Solutions to HackerRank algorithm challenges implemented in Java.",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-04-08T17:07:05Z",
+      "url": "https://github.com/YamiCueto/solving_problems_hackerank"
+    },
     {
       "name": "YamiCueto",
       "description": "No description",
       "language": "Unknown",
       "stars": 0,
       "forks": 0,
-      "updated": "2026-03-30T09:26:17Z",
+      "updated": "2026-04-06T09:24:01Z",
       "url": "https://github.com/YamiCueto/YamiCueto"
     },
     {
@@ -81,15 +90,6 @@
       "forks": 0,
       "updated": "2026-02-02T16:33:59Z",
       "url": "https://github.com/YamiCueto/code-agent-arena"
-    },
-    {
-      "name": "db-connector-extension",
-      "description": "Universal Database Connector - VS Code extension for seamless multi-database management. Connect to MySQL, PostgreSQL, SQL Server, MongoDB, and MariaDB. Browse schemas, execute queries, and manage databases from a unified interface.",
-      "language": "TypeScript",
-      "stars": 1,
-      "forks": 0,
-      "updated": "2026-01-18T19:59:13Z",
-      "url": "https://github.com/YamiCueto/db-connector-extension"
     }
   ]
 }
