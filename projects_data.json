@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-05-04T09:40:32.771242",
+  "updated_at": "2026-05-11T10:09:57.282255",
   "repositories": [
+    {
+      "name": "learn-how-to-use-solar-energy",
+      "description": "A step-by-step interactive course to understand and design your own solar energy system, from basic electrical concepts to full installation planning.",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-05-10T20:58:20Z",
+      "url": "https://github.com/YamiCueto/learn-how-to-use-solar-energy"
+    },
+    {
+      "name": "YamiCueto",
+      "description": "No description",
+      "language": "Unknown",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-05-04T09:40:37Z",
+      "url": "https://github.com/YamiCueto/YamiCueto"
+    },
     {
       "name": "tablas-para-juli",
       "description": "Naci\u00f3 del amor de un pap\u00e1 que quer\u00eda ayudar a su hija Julieta a aprender las tablas de multiplicar. Visualizaci\u00f3n interactiva del 2 al 9 con conexiones cruzadas entre resultados y narraci\u00f3n por voz en espa\u00f1ol.",
@@ -9,15 +27,6 @@
       "forks": 0,
       "updated": "2026-05-03T21:07:15Z",
       "url": "https://github.com/YamiCueto/tablas-para-juli"
-    },
-    {
-      "name": "YamiCueto",
-      "description": "No description",
-      "language": "Unknown",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2026-04-27T09:41:33Z",
-      "url": "https://github.com/YamiCueto/YamiCueto"
     },
     {
       "name": "yamicueto.github.io",
@@ -81,15 +90,6 @@
       "forks": 0,
       "updated": "2026-03-23T00:03:45Z",
       "url": "https://github.com/YamiCueto/dev-agent-local"
-    },
-    {
-      "name": "learn-react",
-      "description": "a simply way to learn all about react framework ",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2026-03-22T23:23:05Z",
-      "url": "https://github.com/YamiCueto/learn-react"
     }
   ]
 }
