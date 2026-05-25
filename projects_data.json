@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-05-18T10:24:49.813796",
+  "updated_at": "2026-05-25T10:27:39.279373",
   "repositories": [
+    {
+      "name": "algoritmos",
+      "description": "Interactive flowcharts to learn basic, intermediate and advanced algorithms \u2014 visualize every step in real time, in your favorite language.",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "updated": "2026-05-25T06:13:10Z",
+      "url": "https://github.com/YamiCueto/algoritmos"
+    },
+    {
+      "name": "YamiCueto",
+      "description": "No description",
+      "language": "Unknown",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-05-18T10:24:54Z",
+      "url": "https://github.com/YamiCueto/YamiCueto"
+    },
     {
       "name": "learn-how-to-use-solar-energy",
       "description": "A step-by-step interactive course to understand and design your own solar energy system, from basic electrical concepts to full installation planning.",
@@ -9,15 +27,6 @@
       "forks": 0,
       "updated": "2026-05-11T20:48:59Z",
       "url": "https://github.com/YamiCueto/learn-how-to-use-solar-energy"
-    },
-    {
-      "name": "YamiCueto",
-      "description": "No description",
-      "language": "Unknown",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2026-05-11T10:10:02Z",
-      "url": "https://github.com/YamiCueto/YamiCueto"
     },
     {
       "name": "tablas-para-juli",
@@ -81,15 +90,6 @@
       "forks": 0,
       "updated": "2026-03-23T00:16:48Z",
       "url": "https://github.com/YamiCueto/dev-agente-local-ui"
-    },
-    {
-      "name": "dev-agent-local",
-      "description": "No description",
-      "language": "Python",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2026-03-23T00:03:45Z",
-      "url": "https://github.com/YamiCueto/dev-agent-local"
     }
   ]
 }
