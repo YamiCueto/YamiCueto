@@ -1,13 +1,22 @@
 {
-  "updated_at": "2026-07-27T10:15:29.810517",
+  "updated_at": "2026-08-03T10:13:59.688188",
   "repositories": [
+    {
+      "name": "curso-ia-generativa",
+      "description": "No description",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-07-31T16:21:34Z",
+      "url": "https://github.com/YamiCueto/curso-ia-generativa"
+    },
     {
       "name": "YamiCueto",
       "description": "No description",
       "language": "Unknown",
       "stars": 0,
       "forks": 0,
-      "updated": "2026-07-20T11:33:59Z",
+      "updated": "2026-07-30T13:20:26Z",
       "url": "https://github.com/YamiCueto/YamiCueto"
     },
     {
@@ -45,15 +54,6 @@
       "forks": 0,
       "updated": "2026-05-03T21:07:15Z",
       "url": "https://github.com/YamiCueto/tablas-para-juli"
-    },
-    {
-      "name": "yamicueto.github.io",
-      "description": "\ud83d\udcbb **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**     ",
-      "language": "CSS",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2026-04-21T01:25:46Z",
-      "url": "https://github.com/YamiCueto/yamicueto.github.io"
     },
     {
       "name": "Hunyuan3D-2",

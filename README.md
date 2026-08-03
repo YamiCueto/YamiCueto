@@ -30,3 +30,18 @@ Abierto a: **Colaboraciones open source** • **Consultoría** • **Mentoría**
 
 ⭐ **Si te gustan mis proyectos, déjame una estrella!** ⭐
 ---
+
+---
+
+## 📈 Estadísticas Actualizadas
+
+**Última actualización:** 03/08/2026 10:13 UTC
+
+**Repositorios públicos:** 10
+
+**Lenguajes más utilizados:**
+
+- **TypeScript:** 3 proyectos
+- **JavaScript:** 3 proyectos
+- **HTML:** 1 proyecto
+- **Java:** 1 proyecto
