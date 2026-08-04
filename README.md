@@ -20,6 +20,20 @@
 **Cloud & DevOps:** AWS, Docker, Git, Jenkins, Maven  
 **AI/ML:** OpenAI API, Claude, Ollama, Local LLMs
 
+## 💻 Proyectos Destacados
+
+| Proyecto | Descripción | Lenguaje | ⭐ |
+| :--- | :--- | :---: | :---: |
+| [**jrxml-viewer-extension**](https://github.com/YamiCueto/jrxml-viewer-extension) | Professional VS Code extension for viewing and editing JasperReports JRXML files w... | TypeScript | 5 |
+| [**Flowly**](https://github.com/YamiCueto/Flowly) | Flowly - Herramienta web ligera para crear diagramas ER, UML, flowcharts y más. Co... | JavaScript | 2 |
+| [**db-connector-extension**](https://github.com/YamiCueto/db-connector-extension) | Universal Database Connector - VS Code extension for seamless multi-database manag... | TypeScript | 1 |
+| [**algoritmos**](https://github.com/YamiCueto/algoritmos) | Interactive flowcharts to learn basic, intermediate and advanced algorithms — visu... | JavaScript | 1 |
+| [**promptly**](https://github.com/YamiCueto/promptly) | Promptly - Interfaz de chat moderna y atractiva para conectar con Ollama, OpenAI y... | JavaScript | 1 |
+| [**curso-ia-generativa**](https://github.com/YamiCueto/curso-ia-generativa) | - | HTML | 0 |
+| [**yamicueto.github.io**](https://github.com/YamiCueto/yamicueto.github.io) | 💻 **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**      | CSS | 0 |
+| [**learn-how-to-use-solar-energy**](https://github.com/YamiCueto/learn-how-to-use-solar-energy) | A step-by-step interactive course to understand and design your own solar energy s... | HTML | 0 |
+
+
 ## 💬 Contacto
 
 ¿Proyecto interesante? ¿Colaboración? ¿Café virtual? ☕
@@ -35,13 +49,13 @@ Abierto a: **Colaboraciones open source** • **Consultoría** • **Mentoría**
 
 ## 📈 Estadísticas Actualizadas
 
-**Última actualización:** 03/08/2026 10:13 UTC
+**Última actualización:** 04/08/2026 12:50 UTC
 
-**Repositorios públicos:** 10
+**Repositorios públicos:** 30
 
 **Lenguajes más utilizados:**
-
-- **TypeScript:** 3 proyectos
-- **JavaScript:** 3 proyectos
-- **HTML:** 1 proyecto
-- **Java:** 1 proyecto
+- **TypeScript:** 8 proyectos
+- **JavaScript:** 8 proyectos
+- **HTML:** 4 proyectos
+- **CSS:** 3 proyectos
+- **Java:** 3 proyectos

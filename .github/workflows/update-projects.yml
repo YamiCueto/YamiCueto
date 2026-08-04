@@ -44,23 +44,23 @@ jobs:
           
           # GitHub API para obtener repositorios
           username = "YamiCueto"
-          api_url = f"https://api.github.com/users/{username}/repos"
+          api_url = f"https://api.github.com/users/{username}/repos?per_page=100"
           
           try:
               response = requests.get(api_url)
               repos = response.json()
               
-              # Filtrar repositorios públicos y ordenar por última actualización
-              public_repos = [repo for repo in repos if not repo['private']]
-              public_repos.sort(key=lambda x: x['updated_at'], reverse=True)
+              # Filtrar repositorios públicos y ordenar por estrellas
+              public_repos = [repo for repo in repos if not repo['private'] and repo['name'] != username]
+              public_repos.sort(key=lambda x: (x['stargazers_count'], x['updated_at']), reverse=True)
               
               # Obtener información relevante
               repo_info = []
-              for repo in public_repos[:10]:  # Top 10 repositorios
+              for repo in public_repos:  
                   info = {
                       'name': repo['name'],
-                      'description': repo['description'] or 'No description',
-                      'language': repo['language'] or 'Unknown',
+                      'description': repo['description'] or '-',
+                      'language': repo['language'] or '-',
                       'stars': repo['stargazers_count'],
                       'forks': repo['forks_count'],
                       'updated': repo['updated_at'],
@@ -69,16 +69,16 @@ jobs:
                   repo_info.append(info)
               
               # Guardar información en archivo
-              with open('projects_data.json', 'w') as f:
+              with open('projects_data.json', 'w', encoding='utf-8') as f:
                   json.dump({
                       'updated_at': datetime.now().isoformat(),
                       'repositories': repo_info
-                  }, f, indent=2)
+                  }, f, indent=2, ensure_ascii=False)
                   
-              print(f"✅ Successfully fetched data for {len(repo_info)} repositories")
+              print(f"Successfully fetched data for {len(repo_info)} repositories")
               
           except Exception as e:
-              print(f"❌ Error fetching repository data: {e}")
+              print(f"Error fetching repository data: {e}")
           EOF
 
       - name: 📊 Update README with Latest Projects
@@ -90,18 +90,43 @@ jobs:
           
           # Leer datos de proyectos
           try:
-              with open('projects_data.json', 'r') as f:
+              with open('projects_data.json', 'r', encoding='utf-8') as f:
                   data = json.load(f)
               
               repositories = data['repositories']
               
+              # Generar tabla Markdown de proyectos destacados
+              projects_table = "## 💻 Proyectos Destacados\n\n"
+              projects_table += "| Proyecto | Descripción | Lenguaje | ⭐ |\n"
+              projects_table += "| :--- | :--- | :---: | :---: |\n"
+              
+              for repo in repositories[:8]: # Mostrar top 8
+                  desc = repo['description']
+                  if len(desc) > 85:
+                      desc = desc[:82] + "..."
+                      
+                  lang = repo['language']
+                  
+                  projects_table += f"| [**{repo['name']}**]({repo['url']}) | {desc} | {lang} | {repo['stars']} |\n"
+                  
               # Leer README actual
               with open('README.md', 'r', encoding='utf-8') as f:
                   readme_content = f.read()
-              
+                  
+              # Remover tabla de proyectos anterior si existe
+              pattern_existing_projects = r'## 💻 Proyectos Destacados.*?(?=## 💬 Contacto)'
+              if re.search(pattern_existing_projects, readme_content, flags=re.DOTALL):
+                  readme_content = re.sub(pattern_existing_projects, '', readme_content, flags=re.DOTALL)
+                  
+              # Insertar la nueva tabla de proyectos antes de "## 💬 Contacto"
+              pattern_contact = r'(## 💬 Contacto)'
+              if re.search(pattern_contact, readme_content):
+                  updated_content = re.sub(pattern_contact, projects_table + r'\n\n\1', readme_content)
+              else:
+                  updated_content = readme_content + "\n\n" + projects_table
+                  
               # Crear sección de estadísticas actualizadas
-              stats_section = f"""
-          ---
+              stats_section = f"""---
           
           ## 📈 Estadísticas Actualizadas
           
@@ -109,36 +134,34 @@ jobs:
           
           **Repositorios públicos:** {len(repositories)}
           
-          **Lenguajes más utilizados:**
-          """
+          **Lenguajes más utilizados:**"""
               
               # Contar lenguajes
               languages = {}
               for repo in repositories:
                   lang = repo['language']
-                  if lang and lang != 'Unknown':
+                  if lang and lang != '-':
                       languages[lang] = languages.get(lang, 0) + 1
               
               # Agregar lenguajes al stats
               for lang, count in sorted(languages.items(), key=lambda x: x[1], reverse=True)[:5]:
                   stats_section += f"\n- **{lang}:** {count} proyecto{'s' if count > 1 else ''}"
               
-              # Buscar donde insertar las estadísticas (antes de la sección de contacto)
-              pattern = r'(---\s*## 💬 ¡Conectemos!)'
-              if re.search(pattern, readme_content):
-                  updated_content = re.sub(pattern, stats_section + r'\n\n\1', readme_content)
+              # Reemplazar la sección de estadísticas entera
+              pattern_stats = r'(---\s*## 📈 Estadísticas Actualizadas.*)'
+              if re.search(pattern_stats, updated_content, flags=re.DOTALL):
+                  updated_content = re.sub(pattern_stats, stats_section + "\n", updated_content, flags=re.DOTALL)
               else:
-                  # Si no encuentra la sección, agregar al final
-                  updated_content = readme_content + stats_section
+                  updated_content += "\n\n" + stats_section + "\n"
               
               # Escribir README actualizado
               with open('README.md', 'w', encoding='utf-8') as f:
                   f.write(updated_content)
               
-              print("✅ README updated with latest project statistics")
+              print("README updated with latest project statistics and table")
               
           except Exception as e:
-              print(f"❌ Error updating README: {e}")
+              print(f"Error updating README: {e}")
           EOF
 
       - name: 💾 Commit and Push Changes
@@ -150,7 +173,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "📌 No changes detected in projects data"
           else
-            git commit -m "🔄 Auto-update: Projects statistics $(date +'%Y-%m-%d')"
+            git commit -m "🔄 Auto-update: Projects statistics and table $(date +'%Y-%m-%d')"
             git push
             echo "✅ Successfully pushed updated project statistics"
           fi
