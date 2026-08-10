@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T17:55:01.068689",
+  "updated_at": "2026-08-10T09:28:02.078138",
   "repositories": [
     {
       "name": "jrxml-viewer-extension",
@@ -47,13 +47,13 @@
       "url": "https://github.com/YamiCueto/promptly"
     },
     {
-      "name": "curso-ia-generativa",
+      "name": "case-os",
       "description": "-",
       "language": "HTML",
       "stars": 0,
       "forks": 0,
-      "updated": "2026-08-04T05:31:48Z",
-      "url": "https://github.com/YamiCueto/curso-ia-generativa"
+      "updated": "2026-08-10T02:57:31Z",
+      "url": "https://github.com/YamiCueto/case-os"
     },
     {
       "name": "yamicueto.github.io",
