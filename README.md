@@ -29,7 +29,7 @@
 | [**db-connector-extension**](https://github.com/YamiCueto/db-connector-extension) | Universal Database Connector - VS Code extension for seamless multi-database manag... | TypeScript | 1 |
 | [**algoritmos**](https://github.com/YamiCueto/algoritmos) | Interactive flowcharts to learn basic, intermediate and advanced algorithms — visu... | JavaScript | 1 |
 | [**promptly**](https://github.com/YamiCueto/promptly) | Promptly - Interfaz de chat moderna y atractiva para conectar con Ollama, OpenAI y... | JavaScript | 1 |
-| [**case-os**](https://github.com/YamiCueto/case-os) | - | HTML | 0 |
+| [**case-os**](https://github.com/YamiCueto/case-os) | - | TypeScript | 0 |
 | [**yamicueto.github.io**](https://github.com/YamiCueto/yamicueto.github.io) | 💻 **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**      | CSS | 0 |
 | [**learn-how-to-use-solar-energy**](https://github.com/YamiCueto/learn-how-to-use-solar-energy) | A step-by-step interactive course to understand and design your own solar energy s... | HTML | 0 |
 
@@ -49,13 +49,13 @@ Abierto a: **Colaboraciones open source** • **Consultoría** • **Mentoría**
 
 ## 📈 Estadísticas Actualizadas
 
-**Última actualización:** 17/08/2026 09:11 UTC
+**Última actualización:** 24/08/2026 09:13 UTC
 
 **Repositorios públicos:** 30
 
 **Lenguajes más utilizados:**
-- **TypeScript:** 8 proyectos
+- **TypeScript:** 9 proyectos
 - **JavaScript:** 8 proyectos
-- **HTML:** 4 proyectos
 - **CSS:** 3 proyectos
+- **HTML:** 3 proyectos
 - **Java:** 3 proyectos

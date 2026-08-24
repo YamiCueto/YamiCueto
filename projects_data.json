@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T09:11:51.681496",
+  "updated_at": "2026-08-24T09:13:43.745579",
   "repositories": [
     {
       "name": "jrxml-viewer-extension",
@@ -49,10 +49,10 @@
     {
       "name": "case-os",
       "description": "-",
-      "language": "HTML",
+      "language": "TypeScript",
       "stars": 0,
       "forks": 0,
-      "updated": "2026-08-15T01:49:16Z",
+      "updated": "2026-08-22T17:14:06Z",
       "url": "https://github.com/YamiCueto/case-os"
     },
     {
