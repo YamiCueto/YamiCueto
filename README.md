@@ -24,7 +24,7 @@
 
 | Proyecto | Descripción | Lenguaje | ⭐ |
 | :--- | :--- | :---: | :---: |
-| [**jrxml-viewer-extension**](https://github.com/YamiCueto/jrxml-viewer-extension) | Professional VS Code extension for viewing and editing JasperReports JRXML files w... | TypeScript | 5 |
+| [**jrxml-viewer-extension**](https://github.com/YamiCueto/jrxml-viewer-extension) | Professional VS Code extension for viewing and editing JasperReports JRXML files w... | TypeScript | 6 |
 | [**Flowly**](https://github.com/YamiCueto/Flowly) | Flowly - Herramienta web ligera para crear diagramas ER, UML, flowcharts y más. Co... | JavaScript | 2 |
 | [**db-connector-extension**](https://github.com/YamiCueto/db-connector-extension) | Universal Database Connector - VS Code extension for seamless multi-database manag... | TypeScript | 1 |
 | [**algoritmos**](https://github.com/YamiCueto/algoritmos) | Interactive flowcharts to learn basic, intermediate and advanced algorithms — visu... | JavaScript | 1 |
@@ -49,7 +49,7 @@ Abierto a: **Colaboraciones open source** • **Consultoría** • **Mentoría**
 
 ## 📈 Estadísticas Actualizadas
 
-**Última actualización:** 24/08/2026 09:13 UTC
+**Última actualización:** 31/08/2026 09:02 UTC
 
 **Repositorios públicos:** 30
 
