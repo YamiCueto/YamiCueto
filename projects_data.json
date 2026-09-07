@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T09:02:49.200365",
+  "updated_at": "2026-09-07T09:02:47.114980",
   "repositories": [
     {
       "name": "jrxml-viewer-extension",
@@ -47,22 +47,31 @@
       "url": "https://github.com/YamiCueto/promptly"
     },
     {
-      "name": "case-os",
-      "description": "-",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2026-08-25T20:38:02Z",
-      "url": "https://github.com/YamiCueto/case-os"
-    },
-    {
       "name": "yamicueto.github.io",
       "description": "💻 **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**     ",
       "language": "CSS",
       "stars": 0,
       "forks": 0,
-      "updated": "2026-08-13T03:23:45Z",
+      "updated": "2026-09-07T03:31:25Z",
       "url": "https://github.com/YamiCueto/yamicueto.github.io"
+    },
+    {
+      "name": "case-os",
+      "description": "-",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-09-05T17:09:35Z",
+      "url": "https://github.com/YamiCueto/case-os"
+    },
+    {
+      "name": "case-algorithms",
+      "description": "CASE Algorithms transforma el estudio de estructuras de datos y algoritmos de una lectura teórica pasiva a una experiencia de laboratorio experimental.",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-09-04T15:54:02Z",
+      "url": "https://github.com/YamiCueto/case-algorithms"
     },
     {
       "name": "learn-how-to-use-solar-energy",
