@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T09:02:47.114980",
+  "updated_at": "2026-09-14T15:19:41.401813",
   "repositories": [
     {
       "name": "jrxml-viewer-extension",
@@ -29,15 +29,6 @@
       "url": "https://github.com/YamiCueto/db-connector-extension"
     },
     {
-      "name": "algoritmos",
-      "description": "Interactive flowcharts to learn basic, intermediate and advanced algorithms — visualize every step in real time, in your favorite language.",
-      "language": "JavaScript",
-      "stars": 1,
-      "forks": 0,
-      "updated": "2026-05-25T06:13:10Z",
-      "url": "https://github.com/YamiCueto/algoritmos"
-    },
-    {
       "name": "promptly",
       "description": "Promptly - Interfaz de chat moderna y atractiva para conectar con Ollama, OpenAI y cualquier API de LLM. UI inspirada en Claude, ChatGPT y Perplexity.",
       "language": "JavaScript",
@@ -47,6 +38,42 @@
       "url": "https://github.com/YamiCueto/promptly"
     },
     {
+      "name": "case-os",
+      "description": "-",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-09-14T15:12:23Z",
+      "url": "https://github.com/YamiCueto/case-os"
+    },
+    {
+      "name": "video-to-text",
+      "description": "Local-first video and audio transcription workspace powered by Whisper.",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-09-13T21:17:14Z",
+      "url": "https://github.com/YamiCueto/video-to-text"
+    },
+    {
+      "name": "english-career-playbook",
+      "description": "Interactive playbook and practice app to master functional English for daily life, technical work, and global tech interviews. Hosted on GitHub Pages.",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-09-10T22:15:16Z",
+      "url": "https://github.com/YamiCueto/english-career-playbook"
+    },
+    {
+      "name": "algoritmos",
+      "description": "Interactive flowcharts to learn basic, intermediate and advanced algorithms — visualize every step in real time, in your favorite language.",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-09-09T08:38:01Z",
+      "url": "https://github.com/YamiCueto/algoritmos"
+    },
+    {
       "name": "yamicueto.github.io",
       "description": "💻 **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**     ",
       "language": "CSS",
@@ -54,15 +81,6 @@
       "forks": 0,
       "updated": "2026-09-07T03:31:25Z",
       "url": "https://github.com/YamiCueto/yamicueto.github.io"
-    },
-    {
-      "name": "case-os",
-      "description": "-",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2026-09-05T17:09:35Z",
-      "url": "https://github.com/YamiCueto/case-os"
     },
     {
       "name": "case-algorithms",
