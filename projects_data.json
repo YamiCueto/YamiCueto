@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T15:19:41.401813",
+  "updated_at": "2026-09-21T15:24:26.484262",
   "repositories": [
     {
       "name": "jrxml-viewer-extension",
@@ -38,12 +38,30 @@
       "url": "https://github.com/YamiCueto/promptly"
     },
     {
+      "name": "case-algorithms",
+      "description": "CASE Algorithms transforma el estudio de estructuras de datos y algoritmos de una lectura teórica pasiva a una experiencia de laboratorio experimental.",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-09-21T00:03:50Z",
+      "url": "https://github.com/YamiCueto/case-algorithms"
+    },
+    {
+      "name": "rag-example",
+      "description": "Laboratorio educativo de RAG en Python: desde la ingesta y fragmentación de documentos hasta embeddings locales, indexación vectorial y búsqueda por similitud. Incluye trazabilidad, versionamiento reproducible y pruebas automatizadas para comprender cada etapa del pipeline.",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-09-19T22:20:18Z",
+      "url": "https://github.com/YamiCueto/rag-example"
+    },
+    {
       "name": "case-os",
       "description": "-",
       "language": "TypeScript",
       "stars": 0,
       "forks": 0,
-      "updated": "2026-09-14T15:12:23Z",
+      "updated": "2026-09-18T01:06:10Z",
       "url": "https://github.com/YamiCueto/case-os"
     },
     {
@@ -81,15 +99,6 @@
       "forks": 0,
       "updated": "2026-09-07T03:31:25Z",
       "url": "https://github.com/YamiCueto/yamicueto.github.io"
-    },
-    {
-      "name": "case-algorithms",
-      "description": "CASE Algorithms transforma el estudio de estructuras de datos y algoritmos de una lectura teórica pasiva a una experiencia de laboratorio experimental.",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2026-09-04T15:54:02Z",
-      "url": "https://github.com/YamiCueto/case-algorithms"
     },
     {
       "name": "learn-how-to-use-solar-energy",
