@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T17:06:29.699190",
+  "updated_at": "2026-10-05T17:31:03.183714",
   "repositories": [
     {
       "name": "jrxml-viewer-extension",
@@ -36,6 +36,15 @@
       "forks": 0,
       "updated": "2025-10-27T21:37:14Z",
       "url": "https://github.com/YamiCueto/promptly"
+    },
+    {
+      "name": "case-visual-lab",
+      "description": "Este proyecto es un laboratorio educativo de diagramación basado en el paquete open source `@excalidraw/excalidraw`, licenciado bajo MIT.  No es un producto oficial de Excalidraw ni está afiliado a Excalidraw s.r.o.  El objetivo es apoyar clases, talleres y explicaciones visuales mediante plantillas educativas reutilizables.",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-10-05T16:33:23Z",
+      "url": "https://github.com/YamiCueto/case-visual-lab"
     },
     {
       "name": "case-algorithms",

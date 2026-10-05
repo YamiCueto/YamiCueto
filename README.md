@@ -28,10 +28,10 @@
 | [**Flowly**](https://github.com/YamiCueto/Flowly) | Flowly - Herramienta web ligera para crear diagramas ER, UML, flowcharts y más. Co... | JavaScript | 2 |
 | [**db-connector-extension**](https://github.com/YamiCueto/db-connector-extension) | Universal Database Connector - VS Code extension for seamless multi-database manag... | TypeScript | 1 |
 | [**promptly**](https://github.com/YamiCueto/promptly) | Promptly - Interfaz de chat moderna y atractiva para conectar con Ollama, OpenAI y... | JavaScript | 1 |
+| [**case-visual-lab**](https://github.com/YamiCueto/case-visual-lab) | Este proyecto es un laboratorio educativo de diagramación basado en el paquete ope... | TypeScript | 0 |
 | [**case-algorithms**](https://github.com/YamiCueto/case-algorithms) | CASE Algorithms transforma el estudio de estructuras de datos y algoritmos de una ... | TypeScript | 0 |
 | [**rag-example**](https://github.com/YamiCueto/rag-example) | Laboratorio educativo de RAG en Python: desde la ingesta y fragmentación de docume... | Python | 0 |
 | [**case-os**](https://github.com/YamiCueto/case-os) | - | TypeScript | 0 |
-| [**video-to-text**](https://github.com/YamiCueto/video-to-text) | Local-first video and audio transcription workspace powered by Whisper. | Python | 0 |
 
 
 ## 💬 Contacto
@@ -49,12 +49,12 @@ Abierto a: **Colaboraciones open source** • **Consultoría** • **Mentoría**
 
 ## 📈 Estadísticas Actualizadas
 
-**Última actualización:** 28/09/2026 17:06 UTC
+**Última actualización:** 05/10/2026 17:31 UTC
 
-**Repositorios públicos:** 34
+**Repositorios públicos:** 35
 
 **Lenguajes más utilizados:**
-- **TypeScript:** 11 proyectos
+- **TypeScript:** 12 proyectos
 - **JavaScript:** 8 proyectos
 - **Python:** 3 proyectos
 - **CSS:** 3 proyectos
