@@ -24,14 +24,14 @@
 
 | Proyecto | Descripción | Lenguaje | ⭐ |
 | :--- | :--- | :---: | :---: |
-| [**jrxml-viewer-extension**](https://github.com/YamiCueto/jrxml-viewer-extension) | Professional VS Code extension for viewing and editing JasperReports JRXML files w... | TypeScript | 6 |
+| [**jrxml-viewer-extension**](https://github.com/YamiCueto/jrxml-viewer-extension) | Professional VS Code extension for viewing and editing JasperReports JRXML files w... | TypeScript | 7 |
 | [**Flowly**](https://github.com/YamiCueto/Flowly) | Flowly - Herramienta web ligera para crear diagramas ER, UML, flowcharts y más. Co... | JavaScript | 2 |
 | [**db-connector-extension**](https://github.com/YamiCueto/db-connector-extension) | Universal Database Connector - VS Code extension for seamless multi-database manag... | TypeScript | 1 |
 | [**promptly**](https://github.com/YamiCueto/promptly) | Promptly - Interfaz de chat moderna y atractiva para conectar con Ollama, OpenAI y... | JavaScript | 1 |
+| [**case-agents-playground**](https://github.com/YamiCueto/case-agents-playground) | Interactive Agent Engineering Playground for building, testing, and visualizing th... | Python | 0 |
+| [**case-os**](https://github.com/YamiCueto/case-os) | - | TypeScript | 0 |
 | [**case-visual-lab**](https://github.com/YamiCueto/case-visual-lab) | Este proyecto es un laboratorio educativo de diagramación basado en el paquete ope... | TypeScript | 0 |
 | [**case-algorithms**](https://github.com/YamiCueto/case-algorithms) | CASE Algorithms transforma el estudio de estructuras de datos y algoritmos de una ... | TypeScript | 0 |
-| [**rag-example**](https://github.com/YamiCueto/rag-example) | Laboratorio educativo de RAG en Python: desde la ingesta y fragmentación de docume... | Python | 0 |
-| [**case-os**](https://github.com/YamiCueto/case-os) | - | TypeScript | 0 |
 
 
 ## 💬 Contacto
@@ -49,13 +49,13 @@ Abierto a: **Colaboraciones open source** • **Consultoría** • **Mentoría**
 
 ## 📈 Estadísticas Actualizadas
 
-**Última actualización:** 05/10/2026 17:31 UTC
+**Última actualización:** 12/10/2026 18:18 UTC
 
-**Repositorios públicos:** 35
+**Repositorios públicos:** 36
 
 **Lenguajes más utilizados:**
 - **TypeScript:** 12 proyectos
 - **JavaScript:** 8 proyectos
-- **Python:** 3 proyectos
+- **Python:** 4 proyectos
 - **CSS:** 3 proyectos
 - **HTML:** 3 proyectos

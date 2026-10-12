@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-05T17:31:03.183714",
+  "updated_at": "2026-10-12T18:18:01.520891",
   "repositories": [
     {
       "name": "jrxml-viewer-extension",
       "description": "Professional VS Code extension for viewing and editing JasperReports JRXML files with interactive visual preview. Features clickable elements, properties panel, export to HTML, zoom controls, and full support for bands, text fields, images, subreports, and charts.",
       "language": "TypeScript",
-      "stars": 6,
+      "stars": 7,
       "forks": 2,
-      "updated": "2026-08-31T01:44:24Z",
+      "updated": "2026-10-09T02:12:35Z",
       "url": "https://github.com/YamiCueto/jrxml-viewer-extension"
     },
     {
@@ -38,12 +38,30 @@
       "url": "https://github.com/YamiCueto/promptly"
     },
     {
+      "name": "case-agents-playground",
+      "description": "Interactive Agent Engineering Playground for building, testing, and visualizing the evolution of AI agents, from Tool Calling and Agent Loops to Memory, Planning, Guardrails, and Observability.",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-10-12T15:18:16Z",
+      "url": "https://github.com/YamiCueto/case-agents-playground"
+    },
+    {
+      "name": "case-os",
+      "description": "-",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-10-06T22:50:37Z",
+      "url": "https://github.com/YamiCueto/case-os"
+    },
+    {
       "name": "case-visual-lab",
       "description": "Este proyecto es un laboratorio educativo de diagramación basado en el paquete open source `@excalidraw/excalidraw`, licenciado bajo MIT.  No es un producto oficial de Excalidraw ni está afiliado a Excalidraw s.r.o.  El objetivo es apoyar clases, talleres y explicaciones visuales mediante plantillas educativas reutilizables.",
       "language": "TypeScript",
       "stars": 0,
       "forks": 0,
-      "updated": "2026-10-05T16:33:23Z",
+      "updated": "2026-10-06T15:41:37Z",
       "url": "https://github.com/YamiCueto/case-visual-lab"
     },
     {
@@ -63,15 +81,6 @@
       "forks": 0,
       "updated": "2026-09-19T22:20:18Z",
       "url": "https://github.com/YamiCueto/rag-example"
-    },
-    {
-      "name": "case-os",
-      "description": "-",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2026-09-18T01:06:10Z",
-      "url": "https://github.com/YamiCueto/case-os"
     },
     {
       "name": "video-to-text",
