@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T18:18:01.520891",
+  "updated_at": "2026-10-19T15:57:01.590056",
   "repositories": [
     {
       "name": "jrxml-viewer-extension",
@@ -38,22 +38,31 @@
       "url": "https://github.com/YamiCueto/promptly"
     },
     {
-      "name": "case-agents-playground",
-      "description": "Interactive Agent Engineering Playground for building, testing, and visualizing the evolution of AI agents, from Tool Calling and Agent Loops to Memory, Planning, Guardrails, and Observability.",
-      "language": "Python",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2026-10-12T15:18:16Z",
-      "url": "https://github.com/YamiCueto/case-agents-playground"
-    },
-    {
       "name": "case-os",
       "description": "-",
       "language": "TypeScript",
       "stars": 0,
       "forks": 0,
-      "updated": "2026-10-06T22:50:37Z",
+      "updated": "2026-10-19T15:38:07Z",
       "url": "https://github.com/YamiCueto/case-os"
+    },
+    {
+      "name": "personal-finance",
+      "description": "Personal finance management system powered by Google Sheets and AI agents for expense tracking, budgeting, financial analysis, and long-term goal planning.",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-10-19T01:01:24Z",
+      "url": "https://github.com/YamiCueto/personal-finance"
+    },
+    {
+      "name": "case-agents-playground",
+      "description": "Interactive Agent Engineering Playground for building, testing, and visualizing the evolution of AI agents, from Tool Calling and Agent Loops to Memory, Planning, Guardrails, and Observability.",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-10-13T23:15:23Z",
+      "url": "https://github.com/YamiCueto/case-agents-playground"
     },
     {
       "name": "case-visual-lab",
