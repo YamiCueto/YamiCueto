@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T15:57:01.590056",
+  "updated_at": "2026-10-26T15:33:35.181653",
   "repositories": [
     {
       "name": "jrxml-viewer-extension",
@@ -38,22 +38,49 @@
       "url": "https://github.com/YamiCueto/promptly"
     },
     {
-      "name": "case-os",
-      "description": "-",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2026-10-19T15:38:07Z",
-      "url": "https://github.com/YamiCueto/case-os"
-    },
-    {
       "name": "personal-finance",
       "description": "Personal finance management system powered by Google Sheets and AI agents for expense tracking, budgeting, financial analysis, and long-term goal planning.",
       "language": "TypeScript",
       "stars": 0,
       "forks": 0,
-      "updated": "2026-10-19T01:01:24Z",
+      "updated": "2026-10-24T18:29:30Z",
       "url": "https://github.com/YamiCueto/personal-finance"
+    },
+    {
+      "name": "yamicueto.github.io",
+      "description": "💻 **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**     ",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-10-23T17:52:37Z",
+      "url": "https://github.com/YamiCueto/yamicueto.github.io"
+    },
+    {
+      "name": "case-algorithms",
+      "description": "CASE Algorithms transforma el estudio de estructuras de datos y algoritmos de una lectura teórica pasiva a una experiencia de laboratorio experimental.",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-10-23T15:55:41Z",
+      "url": "https://github.com/YamiCueto/case-algorithms"
+    },
+    {
+      "name": "ovms_npu_agent",
+      "description": "Testing my laptop ASUSTeK COMPUTER INC. ROG Strix G18 G815LR_G815LR npu intel(R) AI BOOST",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-10-23T14:11:13Z",
+      "url": "https://github.com/YamiCueto/ovms_npu_agent"
+    },
+    {
+      "name": "case-os",
+      "description": "-",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-10-20T14:54:26Z",
+      "url": "https://github.com/YamiCueto/case-os"
     },
     {
       "name": "case-agents-playground",
@@ -72,15 +99,6 @@
       "forks": 0,
       "updated": "2026-10-06T15:41:37Z",
       "url": "https://github.com/YamiCueto/case-visual-lab"
-    },
-    {
-      "name": "case-algorithms",
-      "description": "CASE Algorithms transforma el estudio de estructuras de datos y algoritmos de una lectura teórica pasiva a una experiencia de laboratorio experimental.",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2026-09-24T19:13:25Z",
-      "url": "https://github.com/YamiCueto/case-algorithms"
     },
     {
       "name": "rag-example",
@@ -117,15 +135,6 @@
       "forks": 0,
       "updated": "2026-09-09T08:38:01Z",
       "url": "https://github.com/YamiCueto/algoritmos"
-    },
-    {
-      "name": "yamicueto.github.io",
-      "description": "💻 **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**     ",
-      "language": "CSS",
-      "stars": 0,
-      "forks": 0,
-      "updated": "2026-09-07T03:31:25Z",
-      "url": "https://github.com/YamiCueto/yamicueto.github.io"
     },
     {
       "name": "learn-how-to-use-solar-energy",

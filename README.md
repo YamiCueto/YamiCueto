@@ -28,10 +28,10 @@
 | [**Flowly**](https://github.com/YamiCueto/Flowly) | Flowly - Herramienta web ligera para crear diagramas ER, UML, flowcharts y más. Co... | JavaScript | 2 |
 | [**db-connector-extension**](https://github.com/YamiCueto/db-connector-extension) | Universal Database Connector - VS Code extension for seamless multi-database manag... | TypeScript | 1 |
 | [**promptly**](https://github.com/YamiCueto/promptly) | Promptly - Interfaz de chat moderna y atractiva para conectar con Ollama, OpenAI y... | JavaScript | 1 |
-| [**case-os**](https://github.com/YamiCueto/case-os) | - | TypeScript | 0 |
 | [**personal-finance**](https://github.com/YamiCueto/personal-finance) | Personal finance management system powered by Google Sheets and AI agents for expe... | TypeScript | 0 |
-| [**case-agents-playground**](https://github.com/YamiCueto/case-agents-playground) | Interactive Agent Engineering Playground for building, testing, and visualizing th... | Python | 0 |
-| [**case-visual-lab**](https://github.com/YamiCueto/case-visual-lab) | Este proyecto es un laboratorio educativo de diagramación basado en el paquete ope... | TypeScript | 0 |
+| [**yamicueto.github.io**](https://github.com/YamiCueto/yamicueto.github.io) | 💻 **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**      | JavaScript | 0 |
+| [**case-algorithms**](https://github.com/YamiCueto/case-algorithms) | CASE Algorithms transforma el estudio de estructuras de datos y algoritmos de una ... | TypeScript | 0 |
+| [**ovms_npu_agent**](https://github.com/YamiCueto/ovms_npu_agent) | Testing my laptop ASUSTeK COMPUTER INC. ROG Strix G18 G815LR_G815LR npu intel(R) A... | Python | 0 |
 
 
 ## 💬 Contacto
@@ -49,13 +49,13 @@ Abierto a: **Colaboraciones open source** • **Consultoría** • **Mentoría**
 
 ## 📈 Estadísticas Actualizadas
 
-**Última actualización:** 19/10/2026 15:57 UTC
+**Última actualización:** 26/10/2026 15:33 UTC
 
-**Repositorios públicos:** 37
+**Repositorios públicos:** 38
 
 **Lenguajes más utilizados:**
 - **TypeScript:** 13 proyectos
-- **JavaScript:** 8 proyectos
-- **Python:** 4 proyectos
-- **CSS:** 3 proyectos
+- **JavaScript:** 9 proyectos
+- **Python:** 5 proyectos
 - **HTML:** 3 proyectos
+- **Java:** 3 proyectos
