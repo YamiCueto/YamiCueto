@@ -28,10 +28,10 @@
 | [**Flowly**](https://github.com/YamiCueto/Flowly) | Flowly - Herramienta web ligera para crear diagramas ER, UML, flowcharts y más. Co... | JavaScript | 2 |
 | [**db-connector-extension**](https://github.com/YamiCueto/db-connector-extension) | Universal Database Connector - VS Code extension for seamless multi-database manag... | TypeScript | 1 |
 | [**promptly**](https://github.com/YamiCueto/promptly) | Promptly - Interfaz de chat moderna y atractiva para conectar con Ollama, OpenAI y... | JavaScript | 1 |
+| [**app-sec-academy-io**](https://github.com/YamiCueto/app-sec-academy-io) | Interactive Application Security (AppSec) learning platform covering OWASP, Secure... | TypeScript | 0 |
+| [**blackout-protocol-io**](https://github.com/YamiCueto/blackout-protocol-io) | BLACKOUT PROTOCOL — A browser-based tactical FPS built with Three.js. Survive enem... | JavaScript | 0 |
 | [**personal-finance**](https://github.com/YamiCueto/personal-finance) | Personal finance management system powered by Google Sheets and AI agents for expe... | TypeScript | 0 |
 | [**yamicueto.github.io**](https://github.com/YamiCueto/yamicueto.github.io) | 💻 **Ingeniero de Software | Full Stack Developer | Entusiasta de la IA**      | JavaScript | 0 |
-| [**case-algorithms**](https://github.com/YamiCueto/case-algorithms) | CASE Algorithms transforma el estudio de estructuras de datos y algoritmos de una ... | TypeScript | 0 |
-| [**ovms_npu_agent**](https://github.com/YamiCueto/ovms_npu_agent) | Testing my laptop ASUSTeK COMPUTER INC. ROG Strix G18 G815LR_G815LR npu intel(R) A... | Python | 0 |
 
 
 ## 💬 Contacto
@@ -49,13 +49,13 @@ Abierto a: **Colaboraciones open source** • **Consultoría** • **Mentoría**
 
 ## 📈 Estadísticas Actualizadas
 
-**Última actualización:** 09/11/2026 19:16 UTC
+**Última actualización:** 16/11/2026 18:59 UTC
 
-**Repositorios públicos:** 38
+**Repositorios públicos:** 40
 
 **Lenguajes más utilizados:**
-- **TypeScript:** 13 proyectos
-- **JavaScript:** 9 proyectos
+- **TypeScript:** 14 proyectos
+- **JavaScript:** 10 proyectos
 - **Python:** 5 proyectos
 - **HTML:** 3 proyectos
 - **Java:** 3 proyectos

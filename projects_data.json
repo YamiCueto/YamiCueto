@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T19:16:07.738308",
+  "updated_at": "2026-11-16T18:59:32.080748",
   "repositories": [
     {
       "name": "jrxml-viewer-extension",
@@ -36,6 +36,24 @@
       "forks": 0,
       "updated": "2025-10-27T21:37:14Z",
       "url": "https://github.com/YamiCueto/promptly"
+    },
+    {
+      "name": "app-sec-academy-io",
+      "description": "Interactive Application Security (AppSec) learning platform covering OWASP, Secure Coding, API Security, Threat Modeling, DevSecOps, Cloud Security, Software Supply Chain, and AI Security. Built for hands-on learning through interactive lessons, practical labs, and assessments.",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-11-11T16:08:28Z",
+      "url": "https://github.com/YamiCueto/app-sec-academy-io"
+    },
+    {
+      "name": "blackout-protocol-io",
+      "description": "BLACKOUT PROTOCOL — A browser-based tactical FPS built with Three.js. Survive enemy waves or defend objectives against AI bots in a cinematic industrial environment. Open-source, lightweight and evolving.",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-11-10T22:12:56Z",
+      "url": "https://github.com/YamiCueto/blackout-protocol-io"
     },
     {
       "name": "personal-finance",
